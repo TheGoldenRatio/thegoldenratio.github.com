@@ -1,0 +1,4 @@
+thegoldenratio.github.com
+=========================
+
+blog
