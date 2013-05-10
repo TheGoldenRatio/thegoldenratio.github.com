@@ -1,4 +1,4 @@
 thegoldenratio.github.com
 =========================
 
-blog
+Personal site of Jonathan Chang.  Contact: jonathan@jchang.me
