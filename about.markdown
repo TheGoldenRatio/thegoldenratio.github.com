@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<img src="/images/slackline.jpg" alt="color photo ftl" /> 
+<img src="/images/slackline.jpg" alt="color photo" /> 
 
 I'm 18 years old. I was born in New Jersey, moved to California, moved to Utah, and now spend most of my time in Connecticut.
 
