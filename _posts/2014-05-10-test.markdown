@@ -6,4 +6,4 @@ comments: true
 categories: [testing]
 ---
 
-This is a test. Will it work?? testing. still testing. the alias thing should have kicked in by now?
+I will be spending the next three months in China. The first month will be spent interning in the factory of a sock manufacturing company
