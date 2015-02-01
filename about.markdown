@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About Me
+title: About
 ---
 
-<img src="/images/slackline.jpg" alt="color photo" /> 
+<h2>About this blog</h2>
 
-I'm 18 years old. I was born in New Jersey, moved to California, moved to Utah, and now spend most of my time in Connecticut.
+This website is still a work in progress. It was created with [Jekyll][2], a Ruby static site generator. It has free hosting (via [Github][1]) and is kind of fun. Check out the site to learn more and set up your own Jekyll blog. You don’t need to have too much technical knowledge—just a  very basic understanding of HTML, Ruby, Github, and most importantly, Google search.
 
-I love traveling, hiking, reading, music, exploring, and doing the previously mentioned things simultaneously. Learning and trying new things is the best thing ever.
+[1]: https://github.com/
+[2]: http://jekyllrb.com/
 
-Oh, and my favorite color is orange.

@@ -1,9 +1,0 @@
----
-layout: post
-title: "test"
-date: 2014-05-10
-comments: true
-categories: [testing]
----
-
-I will be spending the next three months in China. The first month will be spent interning in the factory of a sock manufacturing company
