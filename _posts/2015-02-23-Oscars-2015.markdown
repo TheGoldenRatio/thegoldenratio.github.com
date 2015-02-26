@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Oscars"
+date: 2015-02-23
+comments: true
+categories: [posts]
+---
+
+Neil Patrick Harris started off the 2015 Oscars Awards with a bad fat joke, John Travolta needs to keep his hands (and the rest of his body) to himself, Birdman got too many awards, and the Grand Budapest Hotel was robbed of best Original Screenplay. <br><br> Move along, nothing to see here. 
