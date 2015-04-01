@@ -36,6 +36,6 @@ Hair is usually kind of dirty. And even if you’ve washed it really recently, t
 
 Concussions.
 
-![Cereal](/images/watermelon.jpg)
+![Watermelon](/images/Watermelon.jpg)
 
 [1]: http://yale.spoonuniversity.com/2015/03/25/seven-foods-to-keep-the-spring-sniffles-away/
