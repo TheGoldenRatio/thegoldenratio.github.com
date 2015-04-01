@@ -22,7 +22,7 @@ Salad is sometimes kind of wet if it’s recently been washed and you should alw
 
 Dropping an egg on your head would be like putting shampoo in your hair. Only, this shampoo has a yellow yolk, calcium carbonate shards, and makes your hair smell sulfurously terrible after a little while. 
 
-![Eggs](/images/egg1.jpg)
+![Eggs](/images/brownegg2.jpg)
 
 
 ### 3. Cereal
