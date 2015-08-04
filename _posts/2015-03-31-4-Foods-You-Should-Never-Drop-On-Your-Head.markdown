@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
->This is a continuation of a blog series for foodies. 
+>This is a continuation of a food magazine series for foodies. It's called Spoon University. 
 >Read a previous post: [7 Foods to Keep the Spring Sniffles Away][1] by Sara Cho!
 
 
