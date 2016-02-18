@@ -5,5 +5,6 @@ date: 2015-02-05
 comments: true
 categories: [posts]
 ---
+![Treachery](/images/Not a blog.png)
 
 Ceci n'est pas un billet de blog

@@ -12,8 +12,8 @@ This is the [Consortium][1].
 
 We are a collective of individuals, an eccentric body of intellectuals, a consortium of the greatest minds ever assembled. Our interests span legions, and yet we are bound by a singular burden to beauty and truth.
 
-The PW stands for Palau. For the geographically inclined, it's an island country located in the western Pacific Ocean with a population of around 21,000 spread across 250 islands, which form the western chain of the Caroline Islands in Micronesia.
+The "pw" stands for Palau. For the geographically inclined, it's an island country located in the western Pacific Ocean with a population of around 21,000 spread across 250 islands, which form the western chain of the Caroline Islands in Micronesia.
 
-We think it's might be a tax haven. But it's got a booming tech scene.
+We think it might be a tax haven. But it's got a booming online tech scene.
 
 [1]: http://consortium.pw
