@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
-This is the [Consortium][1]. 
+This is the [Consortium][1].
 
 ![Consortium New Hamshire Conference 2015](/images/sunapee.jpg)
 
