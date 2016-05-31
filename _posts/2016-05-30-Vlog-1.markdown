@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Vlog 1"
+date: 2016-05-30
+comments: true
+categories: [posts]
+---
+
+>So I think I'm gonna try making videos for a bit. We'll see where it goes!
+
+<br><br>
+
+
+<iframe width="650" height="400" src="https://www.youtube.com/embed/fbcpJV8xx1k" frameborder="0" allowfullscreen></iframe>
