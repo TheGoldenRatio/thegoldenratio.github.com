@@ -1,3 +1,4 @@
 markdown: kramdown
 highlighter: rouge
 comments: false
+permalink: posts/:title.html
