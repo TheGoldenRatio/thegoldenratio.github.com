@@ -2,52 +2,16 @@
 layout: default
 title:  Projects
 ---
-<head>
 <style>
+    h1 { padding-bottom: 20px;}
+</style>
 
-      header h2 {margin-bottom: 100px}
+# Projects  
 
-      section p { margin-top: 40px; margin-bottom: 10px}
-      section h1 { margin-bottom: 15px; }
-      section h2 { margin-bottom: 10px; }
-      section h2 { margin-bottom: 10px; }
-      footer { bottom: 20px; }
-      footer p { margin-bottom: 5px; }
-      .half-width {
-        float: left;
-        width: 200px;
-        list-style: none;
-        padding: 5px;
-        margin: 7px;
-        margin-bottom: 10px;
-      }
-      .half-width h4 {
-        margin-bottom: 5px;
-      }
-      .half-width ul {
-        padding-left: 0;
-      }
-      .half-width ul li {
-        list-style: inside;
-        font-size: 15px;
-      }
-      .clear-fix {
-        clear: both;
-      }
-    </style>
-<head>
+## <a href= 'http://ucentralasia.org/'>UCA Programming</a> (July 2016 -)
+I moved to Kyrgyzstan in July 2016 to work for the University of Central Asia. I've been teaching first-year students how to code. Here's a cool
+<a href= 'https://www.devex.com/news/a-world-class-university-town-89014'> story </a> on the university. I might also have two line cameo.
 
-
-
-<h1> Projects </h1>
-
-<br>
-
-<p>
-    <h2> <a href= 'http://ucentralasia.org/'>UCA Programming</a> (July 2016 -)</h2>
-    I moved to Kyrgyzstan in July 2016 to work for the University of Central Asia. I've been teaching first-year students how to code. Here's a cool
-    <a href= 'https://www.devex.com/news/a-world-class-university-town-89014'> story </a> on the university. I might also have two line cameo.
-</p>
 
 <p>
 	<h2> <a href= "http://celena.co">Celena</a> (April 2016 -)</h2>

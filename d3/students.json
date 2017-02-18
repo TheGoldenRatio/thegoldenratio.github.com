@@ -194,8 +194,6 @@
 
             {"source": "Nursultan", "target": "Nursultan", "value": 1},
 
-            {"source": "Muratrauf", "target": "Muratrauf", "value": 1},
-
             {"source": "Muratrauf", "target": "Karlygash", "value": 1}
     ]
 }

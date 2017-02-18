@@ -1,6 +1,6 @@
 header { zoom: 1.25; }
-header h1 {margin-bottom: 5px}
-header h1 a { color: #333333; font-weight: bold; }
+header h1 {margin-bottom: 20px;}
+header h1 a { color: #333333; font-weight: bold; margin-bottom: 20px;}
 header h3 { margin-top: 10px; margin-bottom: 5px; }
 header p.view { font-family: helvetica; margin-bottom: 5px; }
 header p.view small { padding-top: 2px; }
