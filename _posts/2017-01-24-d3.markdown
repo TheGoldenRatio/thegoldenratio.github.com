@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "d3"
-date: 2017-1-24
+date: 2017-01-24
 comments: true
 categories: [posts]
 ---

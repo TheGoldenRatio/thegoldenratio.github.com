@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Good Riddance"
-date: 2017-2-12
+date: 2017-02-12
 comments: true
 categories: [posts]
 ---
