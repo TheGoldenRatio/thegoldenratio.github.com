@@ -353,7 +353,7 @@ function dsBarChart() {
 		.attr("y", 15)		
 		.attr("class","title")		
 		.attr("text-anchor", "middle")
-		.text("Overall Major Breakdown of UCA Class of 2021")
+		.text("Overall Breakdown of UCA Class of 2021")
 		;
 }
 
