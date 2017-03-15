@@ -5,7 +5,7 @@ date: 2017-03-12
 comments: true
 categories: [posts]
 ---
-> You can find my code and files [here](https://github.com/TheGoldenRatio/maps-d3). Larger map [here](../images/kg100 2.svg). Refer to my previous post on mapping with D3 for more info. 
+> You can find my code and files [here](https://github.com/TheGoldenRatio/maps-d3). Larger map [here](../images/kg100.svg). Refer to my previous post on mapping with D3 for more info. 
 
 There aren't many great looking maps of Kyrgyzstan, which is a shame because it's a lovely country. For example, the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) made this:
 
@@ -35,7 +35,7 @@ Regardless, I proceeded to convert that table above into a JSON file and joined 
 
 This is what we get when we scale the population density threshold down to 100[^5] people/km^2[^6]:   
 
-<br> ![kg100](../images/kg100 2.svg)  <br><br>
+<br> ![kg100](../images/kg100.svg)  <br><br>
 
 As expected, this doesn't look that much better at all because there's just not enough detail and resolution (I also should add a scale later and I suppose labels would help). But a couple improvements -- first, the border shapes are also slightly sharper. Secondly, this map made me realize that the UN map has completely misplaced the location of Osh (pretty sloppy)! The city needs to be moved south/ mirrored across the protruding bit of Uzbek territory.
 
