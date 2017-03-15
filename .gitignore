@@ -1,6 +1,4 @@
 _drafts/
-_site/*
-.jekyll-metadata
-.DS_store*
-_layouts/.DS_Store
+_site/
+.DS_store
 images/.DS_Store
