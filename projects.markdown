@@ -3,7 +3,7 @@ layout: default
 title:  Projects
 ---
 # Projects
-<br>
+<hr/>
 
 ## <a href= 'http://ucentralasia.org/'>UCA Programming</a> (July 2016 -)
 I moved to Kyrgyzstan in July 2016 to work for the University of Central Asia. I've been teaching first-year students how to code. Here's a cool
