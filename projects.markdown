@@ -2,19 +2,24 @@
 layout: default
 title:  Projects
 ---
-# Projects
+# Projects  
+
 <hr/>
+
+## D3 Visualizations
+Recently learned some D3 and made some things: an updating [dashboard](d3/dash.html), social network [graph](d3/net.html), population density [maps](posts/Utah-Choropleth.html), Sankey [diagram](d3/sankey.html) , [donut](d3/donut.html) chart.  
+<br>  
 
 ## <a href= 'http://ucentralasia.org/'>UCA Programming</a> (July 2016 -)
 I moved to Kyrgyzstan in July 2016 to work for the University of Central Asia. I've been teaching first-year students how to code. Here's a cool
 <a href= 'https://www.devex.com/news/a-world-class-university-town-89014'> story </a> on the university. I might also have two line cameo.  
 <br>
 
-## <a href= "http://celena.co">Celena</a> (April 2016 -)
-Software and design consultancy co-founder. The Consortium actualized. Holy moly, this actually happened; ask about our origin story.  
+## <a href= "http://celena.co">Celena</a> (April - July 2016)
+Worked as a full-stack engineer in NYC briefly before moving to Kyrgyzstan. Worked with REST APIs, Node, React to create a webapp used in production by a major ticket marketplace.  
 <br>
 
-## EPA Air Quality Monitor (April 2016 -)
+## EPA Air Quality Monitor (January- June 2016)
 With Yale faculty and student team, developed prototype of cost-effective air quality monitors to capture high-resolution air pollution data in the city of Baltimore for a $10 million EPA research project. Designed and tested monitor’s physical components and housing.  
 <br> <img src="images/monitor.jpg" alt="EPA monitor">  
 <br>

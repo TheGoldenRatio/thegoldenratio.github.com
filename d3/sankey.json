@@ -1,0 +1,31 @@
+{
+"nodes":[
+{"node":0,"name":"CS"},
+{"node":1,"name":"Media"},
+{"node":2,"name":"Earth & Env."},
+{"node":3,"name":"Econ"},
+{"node":4,"name":"CS"},
+{"node":5,"name":"Media"},
+{"node":6,"name":"Earth & Env."},
+{"node":7,"name":"Econ"},
+{"node":8,"name":"Dropped"}
+],
+"links":[
+{"source":0,"target":4,"value":20},
+{"source":0,"target":5,"value":1},
+
+{"source":0,"target":7,"value":2},
+{"source":0,"target":8,"value":2},
+{"source":1,"target":4,"value":1},
+{"source":1,"target":5,"value":10},
+
+{"source":1,"target":8,"value":1},
+{"source":2,"target":5,"value":1},
+{"source":2,"target":6,"value":7},
+{"source":2,"target":7,"value":2},
+{"source":3,"target":4,"value":5},
+{"source":3,"target":5,"value":3},
+{"source":3,"target":6,"value":1},
+{"source":3,"target":7,"value":13},
+{"source":3,"target":8,"value":1}
+]}
