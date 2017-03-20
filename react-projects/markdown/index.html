@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+    <title>markdown preview</title>
+	<link rel= "stylesheet" href="css/style.css">
+	<link rel= "stylesheet" href="css/bootstrap.min.css">
+  	<!--  source code for react -->
+	<script src="js/react.js"></script>
+	<script src="js/react-dom.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js"></script>
+</head>
+
+<body>
+	<h1 class = "title"> markdown preview </h1>
+	<div id="root"> </div>
+	<script type="text/babel">
+	var DisplayContainer = React.createClass({
+		getInitialState:function(){
+			return{
+				value:' This is a Markdown previewer. Type to preview. \n\n   title  \n ===== \n\n**subtitle** \n\n `code` \n\n  _generic, i know_ \n\n  ~~but it works~~ \n\n click [me](http://jchang.me)'
+			}
+		},
+		updateValue:function(modifiedValue){
+			this.setState({
+				value: modifiedValue
+			})
+		},
+		rawMarkup: function(value) {
+		  var rawMarkup = marked(value, {sanitize: true});
+		  return { __html: rawMarkup };
+		},
+		render:function(){
+			return (
+			  <div className="row">
+				<div className="col-md-5">
+				  <RawInput value={this.state.value} updateValue={this.updateValue}/>
+				</div>
+				<div className="col-md-4">
+				  <span dangerouslySetInnerHTML={this.rawMarkup(this.state.value)} />
+				</div>
+			  </div>
+		  );
+		}
+	});
+
+	var RawInput = React.createClass({
+		update:function(){
+			var modifiedValue=this.refs.inputValue.value;
+			this.props.updateValue(modifiedValue);
+		},
+		render:function(){
+			return (<textarea rows="20" type="text" ref="inputValue" value={this.props.value} onChange={this.update} className="form-control" />)
+		}
+	});
+
+	ReactDOM.render(
+	  <DisplayContainer />,
+	  document.getElementById('root')
+	);
+	</script>
+
+</body>
+</html>
