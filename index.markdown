@@ -5,6 +5,7 @@ title:  Jonathan's Blog
 <style>
     img {
         padding-bottom: 50px;
+        width: 95%;
     }
 </style>
 

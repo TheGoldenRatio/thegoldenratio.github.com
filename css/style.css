@@ -261,7 +261,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:540px;
   float:right;
   padding-bottom:50px;
 }
@@ -277,6 +277,13 @@ hr {
   margin:0 0 30px 0;
 }
 
+figcaption{
+    font-style: italic;
+    font-size: 12px;
+    margin-top: -20px;
+}
+
+
 footer {
   width:270px;
   float:left;
@@ -285,7 +292,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 770px) {
 
   div.wrapper {
     width:auto;
@@ -305,8 +312,8 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
+    padding:10px 0;
+    margin:0 0 10px;
   }
 
   header a small {
@@ -314,13 +321,14 @@ footer {
   }
 
   header ul {
-    position:absolute;
+    /*position:absolute;
     right:50px;
-    top:52px;
+    top:52px;*/
+    position:auto;
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 770px) {
   body {
     word-wrap:break-word;
   }

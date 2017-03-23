@@ -5,7 +5,8 @@ title: About
 # About this blog
 <hr/>
 
-<img src="/images/american gothic.jpg" style="max-width: 90%; height: auto">
+<img src="/images/namazu.jpg" alt="guilty namazu" class="img-fluid" width="100%">
+<figcaption class="figure-caption">Namazu convicted of causing 1855 Edo earthquake. 19th century Japanese woodblock print.</figcaption> <br>
 
 ### First and foremost, a disclaimer.  
 I've heard people say that social media serves as a reflection for our current (and often aspirational) conceptions of self. I think that writing and blogging (esp. about yourself) has a similar function. As such, this blog will constantly evolve as I think of weird things to post and then cringe later on. The probability is high that many things will make no sense because I enjoy extremely extended, convoluted inside jokes. I realize that some people do not. Sorry.
