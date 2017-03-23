@@ -12,13 +12,15 @@
 </head>
 
 <body>
-	<h1 class = "title"> markdown preview </h1>
+	<h1 class = "title"> markdown tester </h1>
 	<div id="root"> </div>
+
+
 	<script type="text/babel">
-	var DisplayContainer = React.createClass({
+	var TextBox = React.createClass({
 		getInitialState:function(){
 			return{
-				value:' This is a Markdown previewer. Type to preview. \n\n   title  \n ===== \n\n**subtitle** \n\n `code` \n\n  _generic, i know_ \n\n  ~~but it works~~ \n\n click [me](http://jchang.me)'
+				value:' This is a Markdown previewer. \n\n > Type to preview. \n\n   title  \n ===== \n\n**subtitle** \n\n `code` \n\n  _generic, i know_ \n\n  ~~but it works~~ \n\n click [me](http://jchang.me)'
 			}
 		},
 		updateValue:function(modifiedValue){
@@ -33,18 +35,20 @@
 		render:function(){
 			return (
 			  <div className="row">
-				<div className="col-md-5">
-				  <RawInput value={this.state.value} updateValue={this.updateValue}/>
-				</div>
 				<div className="col-md-4">
-				  <span dangerouslySetInnerHTML={this.rawMarkup(this.state.value)} />
+				  <TextInput value={this.state.value} updateValue={this.updateValue}/>
+				</div>
+				<div className="col-md-5" >
+					<div className="well">
+				  		<span dangerouslySetInnerHTML={this.rawMarkup(this.state.value)} />
+				  </div>
 				</div>
 			  </div>
 		  );
 		}
 	});
 
-	var RawInput = React.createClass({
+	var TextInput = React.createClass({
 		update:function(){
 			var modifiedValue=this.refs.inputValue.value;
 			this.props.updateValue(modifiedValue);
@@ -55,10 +59,11 @@
 	});
 
 	ReactDOM.render(
-	  <DisplayContainer />,
+	  <TextBox />,
 	  document.getElementById('root')
 	);
 	</script>
+
 
 </body>
 </html>

@@ -4,7 +4,11 @@ title:  Projects
 ---
 # Projects  
 
-<hr/>
+<hr/>  
+
+## React Markdown Tester
+Test and preview Markdown code with this [React app](../react-projects/markdown/index.html).  
+<br>
 
 ## D3 Visualizations
 Recently learned some D3 and made some things: an updating [dashboard](d3/dash.html), social network [graph](d3/net.html), population density [maps](posts/Utah-Choropleth.html), Sankey [diagram](d3/sankey.html) , [donut](d3/donut.html) chart.  
