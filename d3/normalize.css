@@ -1,7 +1,7 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
 html {
-    font-family: avenir, helvetica;
+    font-family: avenir, helvetica, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     color: #736F6E;
@@ -89,9 +89,7 @@ dfn {
 h1 {
 
     font-size: 2em;
-    margin: 0.67em 0;
-    margin-left: 50px;
-    }
+    margin: 0.67em 0; }
 
 /**
  * Address styling not present in IE 8/9.

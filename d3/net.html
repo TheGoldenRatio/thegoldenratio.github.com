@@ -3,6 +3,7 @@
 <meta>
     <meta charset="utf-8">
     <link rel="stylesheet" href="normalize.css">
+
 </meta>
 
 <h1>Yielded Students: Preadmit Social Network </h1>
@@ -19,11 +20,15 @@
   stroke-width: 1.5px;
 }
 
+text{
+    font-size: 10pt;
+    font-family: Avenir, helvetica, sans-serif;
+}
 </style>
-<svg width="760" height="600"></svg>
+<svg width="1200" height="600"></svg>
 <script src="d3.min.js"></script>
-<script type='text/javascript' src="http://bost.ocks.org/mike/fisheye/fisheye.js?0.0.3"> </script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+<script src="https://raw.githubusercontent.com/susielu/d3-legend/master/d3-legend.min.js"></script>
 <script>
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -33,9 +38,31 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().distanceMax(100))
-    .force("center", d3.forceCenter(width / 2, height / 2));
+    .force("charge", d3.forceManyBody().distanceMax(150))
+    .force("center", d3.forceCenter(width / 2.5, height / 2));
 
+var ordinal = d3.scaleOrdinal()
+  .domain(["Kyrgyz", "Tajik (GBAO)", "Tajik (non-GBAO)", "Kazakh", "Pakistani", "Afghan"])
+  .range([ "rgb(174, 199, 232)", "rgb(255, 187, 120)", "rgb(44, 160, 44)", "rgb(152, 223, 138)", "rgb(255, 127, 14)", "rgb(31, 119, 180)"]);
+
+var svg = d3.select("svg");
+
+svg.append("g")
+  .attr("class", "legendOrdinal")
+  .attr("transform", "translate(20,20)");
+
+var legendOrdinal = d3.legendColor()
+  //d3 symbol creates a path-string, for example
+  //"M0,-8.059274488676564L9.306048591020996,
+  //8.059274488676564 -9.306048591020996,8.059274488676564Z"
+  .shape("path", d3.symbol().type(d3.symbolCircle).size(100)())
+  .shapePadding(10)
+  //use cellFilter to hide the "e" cell
+  .cellFilter(function(d){ return d.label !== "e" })
+  .scale(ordinal);
+
+svg.select(".legendOrdinal")
+  .call(legendOrdinal);
 
 
 d3.json("students.json", function(error, graph) {
@@ -84,18 +111,6 @@ d3.json("students.json", function(error, graph) {
         .attr("cy", function(d) { return d.y; });
   }
 
-  svg.on("mousemove", function() {
-        force.stop();
-        fisheye.focus(d3.mouse(this));
-        d3.selectAll("circle").each(function(d) { d.fisheye = fisheye(d); })
-            .attr("cx", function(d) { return d.fisheye.x; })
-            .attr("cy", function(d) { return d.fisheye.y; })
-            .attr("r", function(d) { return d.fisheye.z * 8; });
-        link.attr("x1", function(d) { return d.source.fisheye.x; })
-            .attr("y1", function(d) { return d.source.fisheye.y; })
-            .attr("x2", function(d) { return d.target.fisheye.x; })
-            .attr("y2", function(d) { return d.target.fisheye.y; });
-      });
 
 
 });
