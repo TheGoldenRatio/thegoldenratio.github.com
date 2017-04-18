@@ -5,7 +5,7 @@ date: 2017-01-24
 comments: true
 categories: [posts]
 ---
-> Note: updated April 2017 with completed graph.
+> Note: Updated April 2017 with completed graph.
 
 [This](../d3/net.html) is an incomplete social network visualization of the admitted students of the UCA class of 2021.  
 

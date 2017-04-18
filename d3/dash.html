@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <title>UCA Majors</title>
-    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
     <link rel="stylesheet" href="normalize.css">
     <style>
 
@@ -23,8 +23,8 @@
 		}
 
 		.title {
-		 font-family: "Avenir";
-			font-size: 20px;
+		font-family: "Avenir", helvetica, sans-serif ;
+		font-size: 20px;
 
 		}
 
@@ -67,9 +67,9 @@ var 	formatAsPercentage = d3.format("%"),
 function dsPieChart(){
 
 	var dataset = [
-			{category: "Earth & Env.", measure: 0.141},
+			{category: "EES", measure: 0.141},
 	      	{category: "Media", measure: 0.183},
-	    	{category: "Economics", measure: 0.324},
+	    	{category: "Econ", measure: 0.324},
 	    	{category: "CS", measure: 0.352},
 	      ]
 	      ;
@@ -85,11 +85,11 @@ function dsPieChart(){
 		   ;
 
 	var vis = d3.select("#pieChart")
-	     .append("svg:svg")              //create the SVG element inside the <body>
-	     .data([dataset])                   //associate our data with the document
-	         .attr("width", width)           //set the width and height of our visualization (these will be attributes of the <svg> tag
+	     .append("svg:svg")
+	     .data([dataset])
+	         .attr("width", width)
 	         .attr("height", height)
-	     		.append("svg:g")                //make a group to hold our pie chart
+	     		.append("svg:g")
 	         .attr("transform", "translate(" + outerRadius + "," + outerRadius + ")")    //move the center of the pie chart from 0, 0 to radius, radius
 				;
 
@@ -100,14 +100,14 @@ function dsPieChart(){
    var arcFinal = d3.svg.arc().innerRadius(innerRadiusFinal).outerRadius(outerRadius);
 	var arcFinal3 = d3.svg.arc().innerRadius(innerRadiusFinal3).outerRadius(outerRadius);
 
-   var pie = d3.layout.pie()           //this will create arc data for us given a list of values
+   var pie = d3.layout.pie()
         .value(function(d) { return d.measure; });    //we must tell it out to access the value of each element in our data array
 
-   var arcs = vis.selectAll("g.slice")     //this selects all <g> elements with class slice (there aren't any yet)
-        .data(pie)                          
+   var arcs = vis.selectAll("g.slice")
+        .data(pie)
         .enter()
-            .append("svg:g")                //create a group to hold each slice (we will have a <path> and a <text> element associated with each slice)
-               .attr("class", "slice")    //allow us to style things in the slices (like text)
+            .append("svg:g")
+               .attr("class", "slice")
                .on("mouseover", mouseover)
     				.on("mouseout", mouseout)
     				.on("click", up)
@@ -125,13 +125,13 @@ function dsPieChart(){
 			    .attr("d", arcFinal )
 			    ;
 
+
 	  arcs.filter(function(d) { return d.endAngle - d.startAngle > .2; })
 	  		.append("svg:text")
 	      .attr("dy", ".35em")
 	      .attr("text-anchor", "middle")
 	      .attr("transform", function(d) { return "translate(" + arcFinal.centroid(d) + ")rotate(" + angle(d) + ")"; })
-	      //.text(function(d) { return formatAsPercentage(d.value); })
-	      .text(function(d) { return d.data.category; })
+	      .text(function(d) { return d.data.category+ " "+formatAsPercentage(d.value) ; })
 	      ;
 
 	   // Computes the label angle of an arc, converting from radians to degrees.
@@ -187,14 +187,14 @@ var datasetBarChart = [
 { group: "CS", category: "Female", measure: 20 },
 { group: "CS", category: "Rural", measure: 52},
 { group: "CS", category: "Urban", measure: 48},
-{ group: "Economics", category: "Male", measure: 48},
-{ group: "Economics", category: "Female", measure: 52 },
-{ group: "Economics", category: "Rural", measure: 43 },
-{ group: "Economics", category: "Urban", measure: 57},
-{ group: "Earth & Env.", category: "Male", measure: 70},
-{ group: "Earth & Env.", category: "Female", measure: 30 },
-{ group: "Earth & Env.", category: "Rural", measure: 70},
-{ group: "Earth & Env.", category: "Urban", measure: 30 },
+{ group: "Econ", category: "Male", measure: 48},
+{ group: "Econ", category: "Female", measure: 52 },
+{ group: "Econ", category: "Rural", measure: 43 },
+{ group: "Econ", category: "Urban", measure: 57},
+{ group: "EES", category: "Male", measure: 70},
+{ group: "EES", category: "Female", measure: 30 },
+{ group: "EES", category: "Rural", measure: 70},
+{ group: "EES", category: "Urban", measure: 30 },
 { group: "Media", category: "Male", measure: 38},
 { group: "Media", category: "Female", measure: 62 },
 { group: "Media", category: "Rural", measure: 54},
@@ -252,6 +252,7 @@ function dsBarChart() {
 						.domain([0, firstDatasetBarChart.length])
 						.range([0, width])
 						;
+
 
 	var yScale = d3.scale.linear()
 		   .domain([0, d3.max(firstDatasetBarChart, function(d) { return d.measure; })])
@@ -339,7 +340,7 @@ function dsBarChart() {
 		.attr("y", 15)
 		.attr("class","title")
 		.attr("text-anchor", "middle")
-		.text("Overall Breakdown of UCA Class of 2021")
+		.text("Overall Major Breakdown of UCA Class of 2021")
 		;
 }
 
@@ -423,8 +424,8 @@ function updateBarChart(group, colorChosen) {
 		;
 }
     </script>
-        <p style = 'margin: 430px 20px;'> Click on donut chart for individual major breakdown </p>
 
+    	<p style = 'margin: 430px 20px;'> Click on donut chart for individual major breakdown </p>
 
   </body>
 
