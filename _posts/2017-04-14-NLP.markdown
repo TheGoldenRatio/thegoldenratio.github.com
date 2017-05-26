@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Google Translate"
+date: 2017-05-14
+categories: [posts]
+---
+> Wrote this about 2 months ago; never got around to posting.   
+>Files: Google [translation](../google_translate.txt), the paid [translation](../paid_translation.txt), and the official state [translation](http://www.akorda.kz/en/addresses/addresses_of_president/the-president-of-kazakhstan-nursultan-nazarbayevs-address-to-the-nation-of-kazakhstan-january-31-2017). Also iPython [notebook](https://nbviewer.jupyter.org/github/TheGoldenRatio/notebooks/blob/master/Translation%20Similarities.ipynb).
+
+This NYT Magazine article [The Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) has been one of the most interesting pieces I've read in a long time. The first section details how in November 2016, a University of Tokyo professor discovers that Google Translate was suddenly able to produce translations of literature from English to Japanese and vice versa with a clarity and literary style that matched human translations, even those done my writers as talented as Haruki Murakami.
+
+This was because Google had slowly been switching Translate from a statistical machine translation model to a neural machine translation model and released its new product in November.[^1] The article also gives great profiles into both the people and the institutional story behind Google's pivot toward AI as well as the history of the development of artificial intelligence and the public's understanding of AI and machine learning[^2]. Read the article; it's really quite good.
+
+Google's use of machine learning to improve Translate and indeed, machine learning in general, has been on my mind a lot recently.  Last week [2.5 months now] as I was preparing to do a talk in Kazakhstan for UCA, I was doing some research on our topic which was industrialization in Kazakhstan ([here's](http://taldykorgan.palata.kz/ru/news/25834) my Russian name cameo).
+
+To make a long story short, to prepare for this presentation, I was given a translated text to read. This text was really long-- it was around 5000 words (34,000 characters) so the translation fee wasn't cheap. I was curious about the translation so I ended up finding the original Russian text and using Google translate. I wasn't totally shocked when I realized the Google Translate version was very, very similar to the paid translation. And then after this, I actually found the official English translation put out by the Kazakh government. I suppose one moral of this story is that one should always Google before spending money on translations.
+
+Now that I had three translations of an identical text, I wanted to use natural language processing (NLP) to compare how similar they were. After doing some research, it seems like a good method to compare texts would be to transform the text into tf-idf vectors ([term frequency - inverse document frequency](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)) and then running a cosine similarity between those vectors.
+
+To demonstrate this I'm going to first compare the first two sentences from each of the three sources:
+
+- "Dear people of Kazakhstan! On the eve of a new era, I am addressing the Message to the people of Kazakhstan." - *Google Translate*
+- "Dear fellow people of Kazakhstan! As we approach the new era, I am addressing the people of Kazakhstan." - *paid translation*
+- "Dear People of Kazakhstan! I am addressing the people of Kazakhstan as we approach the new era." - *official Kazakh state translation*
+
+Using scikit-learn (specifically the TFIDVectorizer library), we can transform a bunch of text into tf-idf vectors.
+When I run the cosine similarity on their tf-idf matrices, I get the following matrix:
+
+                Google         Paid        Official
+
+    Google      [[ 1.       ,  0.7143453,  0.75273432]
+    Paid        [ 0.7143453 ,  1.       ,  0.94900057]
+    Official    [ 0.75273432,  0.9490005,  1.       ]]
+
+To interpret the first line, the Google text is 100% similar to itself (no surprise here), 71.4% similar to the paid translation, and 75.3% similar to the official state translation. Overall, the state and paid translation are the most similar texts (94.9% similar) while the Google translation is more similar to the official translation than the paid translation.
+
+Here are the results for the three, 5000 word texts we get the following:
+
+                Google         Paid        Official
+
+    Google      [[ 1.       ,  0.98913689,  0.98193415]
+    Paid        [ 0.98913689,  1.        ,  0.98731266]
+    Official    [ 0.98193415,  0.98731266,  1.       ]]
+
+According to our methodology, the Google translation is 98.2% similar to the official translation, while the paid translation is 98.7% similar. I think my take away would be to try using Google translate on Russian documents because the similarity of the texts means that you'll probably get a good-enough translation from Google.
+
+Obviously, there are many ways this method is flawed. It's probably way too simplified and there are almost certainly better ways to do this (I don't know very much about NLP yet). Yet as I was reading each of the three translations, I felt that they really were so similar that I would get the same message and details from each of them.
+
+In fact, there were instance where I felt Google had stylistically superior translation than the other two documents. In both the official and paid translations, there was a phrase which translated a national economic plan as the "100 Specific Steps". The Google translate version actually translates this as "100 concrete steps", which I find to be a much more clever and descriptive name.
+
+In conclusion, NLP is OP. I guess when the singularity is here and machines take over, it'll be bad but at least we'll get free translations.
+
+[^1]:https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/
+[^2]: These two terms are tricky because they're often used interchangeably. However, it seems like most people who study this kind of stuff classify machine learning as a subsection of AI and just one approach to AI, albeit the most successful approach, currently.
