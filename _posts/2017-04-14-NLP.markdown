@@ -46,9 +46,9 @@ According to our methodology, the Google translation is 98.2% similar to the off
 
 Obviously, there are many ways this method is flawed. It's probably way too simplified and there are almost certainly better ways to do this (I don't know very much about NLP yet). Yet as I was reading each of the three translations, I felt that they really were so similar that I would get the same message and details from each of them.
 
-In fact, there were instance where I felt Google had stylistically superior translation than the other two documents. In both the official and paid translations, there was a phrase which translated a national economic plan as the "100 Specific Steps". The Google translate version actually translates this as "100 concrete steps", which I find to be a much more clever and descriptive name.
+In fact, there were instances where I felt Google had stylistically superior translation than the other two documents. In both the official and paid translations, there was a phrase which translated a national economic plan as the "100 Specific Steps". The Google translate version actually translates this as "100 concrete steps", which I find to be a much more clever and descriptive name.
 
-In conclusion, NLP is OP. I guess when the singularity is here and machines take over, it'll be bad but at least we'll get free translations.
+In conclusion, NLP is OP. I guess when the singularity is here and machines take over, it'll be bad but at least we'll get free, high-quality translations.
 
 [^1]:https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/
 [^2]: These two terms are tricky because they're often used interchangeably. However, it seems like most people who study this kind of stuff classify machine learning as a subsection of AI and just one approach to AI, albeit the most successful approach, currently.
