@@ -6,6 +6,12 @@ title:  Projects
 
 <hr/>  
 
+## University of Central Asia Institutional research
+Created an institutional research report with D3 visualizations based on admissions data, classroom data, running and analyzing surveys regarding student campus life and academics. Due to nature of data, please request report via email if needed.
+
+<img src="/images/uca_corr.png" height="300px">
+<br>
+
 ## React Markdown Tester
 Test and preview Markdown code with this [React app](../react-projects/markdown/index.html).  
 <br>
