@@ -34,7 +34,7 @@ When I run the cosine similarity on their tf-idf matrices, I get the following m
 
 To interpret the first line, the Google text is 100% similar to itself (no surprise here), 71.4% similar to the paid translation, and 75.3% similar to the official state translation. Overall, the state and paid translation are the most similar texts (94.9% similar) while the Google translation is more similar to the official translation than the paid translation.
 
-Here are the results for the three, 5000 word texts we get the following:
+This is the resulting cosine similarity for the three, 5000 word texts:
 
                 Google         Paid        Official
 
