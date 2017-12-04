@@ -3,7 +3,8 @@ layout: post
 title: "Mengniu"
 date: 2015-08-12
 comments: true
-categories: [posts]
+categories: [Long-form]
+tags: essay &#9733Best&#32Work long-form China Auvillar travel
 ---
 
 >Long form essay. Based on research I did last summer while studying as a Light Fellow through Yale. Note: In retrospect, I really don't like the way it ends but I can't think of another way to end it. If you have any suggestions, please let me know.

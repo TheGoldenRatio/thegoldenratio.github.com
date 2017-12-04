@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
-<img src="/images/w_hats.jpg" align="middle">
+<img src="/img/w_hats.jpg" align="middle">
 
 Rest in peace, my sweet Walgreens hat.
 
@@ -26,4 +26,4 @@ Good night, sweet prince.
 
 P.S. Here's the new hat if you're curious. It's pretty dope:
 
-<img src="/images/newhat.jpg" align="middle">
+<img src="/img/newhat.jpg" align="middle">

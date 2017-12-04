@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Learning D3"
+date: 2017-01-24
+comments: true
+categories: [posts]
+---
+> Note: Updated April 2017 with completed graph.
+
+[This](../d3/net.html) is an incomplete social network visualization of the admitted students of the UCA class of 2021.  
+
+I'm currently experimenting with how to display d3 in markdown. I can't figure out how to embed it directly yet so my temporary, unideal workaround is to just use links.
+
+d3 is pretty sweet and I want to keep on working on building cooler visualizations. Thanks, [Mike](http://mikewuis.me) for telling me about it.

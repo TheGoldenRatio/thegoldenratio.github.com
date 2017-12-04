@@ -1,6 +1,3 @@
-jchang.me
-=========================
+## This is my blog. ##
 
-This is the personal site of Jonathan Chang.
-
-Contact: jchang.me@gmail.com
+Used the **[Leonids](http://renyuanz.github.io/leonids)** theme. Many thanks.

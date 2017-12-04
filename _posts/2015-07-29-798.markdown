@@ -4,6 +4,7 @@ title: "798"
 date: 2015-07-29
 comments: true
 categories: [posts]
+tags: essay travel Auvillar
 ---
 
 
@@ -18,12 +19,12 @@ Seven. Nine. Eight.
 
 I’m drawn to 798 four times during my two months in Beijing. It’s on the fringes of the city, lying out in the northeast corner of the 4th ring. Since I’m coming from the Haidian district in the northwestern corner of the 3rd ring, the commute is nearly 2 hours long one way. Around 10 metro stops, followed by about 5 more bus stops. This distance from government authorities, along with cheap rent, drew artists and the bohemian community out to the derelict and abandoned warehouses and lofts in the 1990s.
 
-798 is named after Factory #798, a decommissioned factory built in 1954 that made military materiel under the Socialist Unification Plan. Factory #798 was just one factory within a larger complex, the 718 Joint factory which sat on 500,000 acres of land. Factory #798 was probably not unlike the 797 factories that came before it in terms of function. 
+798 is named after Factory #798, a decommissioned factory built in 1954 that made military materiel under the Socialist Unification Plan. Factory #798 was just one factory within a larger complex, the 718 Joint factory which sat on 500,000 acres of land. Factory #798 was probably not unlike the 797 factories that came before it in terms of function.
 
 Its form, however, is another thing entirely. Designed with East Germans in a joint factory project, 798 is an exhibition of Bauhaus design. Bauhaus, the German, 20th century modernist art school, lends these buildings a grace and functionality completely absent from the ornamentation, heaviness, and blockiness of Soviet-influenced architecture in other parts of Beijing.
 
 
-<img src="/images/798.jpg" align="middle">
+<img src="/img/798.jpg" align="middle">
 
 I meander along the narrow streets of the massive complex. The roads are named 796, 797, 798, 799… Swank galleries housed in industrial concrete line the streets. Big names have exhibited in 798— Huang Rui, Ai Weiwei, Christian Dior.  There are rusting motorcycles alongside fancy foreign Benzes and Alfa Romeos. The artistic community is worried about gentrification but corporate cashflows also bring money for projects.
 
