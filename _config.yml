@@ -1,4 +1,75 @@
-markdown: kramdown
-highlighter: rouge
-comments: false
-permalink: posts/:title.html
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: jchang's blog
+email: jonathan.chang@yale.edu
+description: Jonathan Chang's blog.
+url: thegoldenratio.github.io # the base hostname & protocol for your site
+#url: http://localhost:4000 # local build
+keywords: ["Essays", "Python", "Data visualizations", "Jonathan Chang", "Blog"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          America/New_York
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Jonathan Chang
+  avatar: kumbel.jpg
+  job:
+  bio:
+  email: jonathan.chang@yale.edu
+  disqus-shortname:
+  twitter: iamjchang #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-39387429-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: TheGoldenRatio #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: jchangme #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
+
+
+#
+###################################
+# Plugins
+####################################
+#

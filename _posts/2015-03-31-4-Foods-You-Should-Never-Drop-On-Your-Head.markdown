@@ -4,13 +4,14 @@ title: "4 Foods You Should Never Drop On Your Head"
 date: 2015-03-31
 comments: true
 categories: [posts]
+tags: humor 
 ---
 
->This is a continuation of a food magazine series for foodies. It's called Spoon University. 
+>This is a continuation of a food magazine series for foodies. It's called Spoon University.
 >Read a previous post: [7 Foods to Keep the Spring Sniffles Away][1] by Sara Cho!
 
 
-![Salad](/images/salad.jpg)
+![Salad](/img/salad.jpg)
 
 ### 1. Salad
 
@@ -20,22 +21,22 @@ Salad is sometimes kind of wet if it’s recently been washed and you should alw
 
 ### 2. Eggs
 
-Dropping an egg on your head would be like putting shampoo in your hair. Only, this shampoo has a yellow yolk, calcium carbonate shards, and makes your hair smell sulfurously terrible after a little while. 
+Dropping an egg on your head would be like putting shampoo in your hair. Only, this shampoo has a yellow yolk, calcium carbonate shards, and makes your hair smell sulfurously terrible after a little while.
 
-![Eggs](/images/brownegg2.jpg)
+![Eggs](/img/brownegg2.jpg)
 
 
 ### 3. Cereal
 
-Hair is usually kind of dirty. And even if you’ve washed it really recently, there’s probably all sorts of chemicals from your shampoo, like sulfates and parabens. They’re definitely bad for you. But seriously, cereal dirties your hair. If you're bald, then it'll dirty your scalp. And don’t get me started on cereal with milk. 
+Hair is usually kind of dirty. And even if you’ve washed it really recently, there’s probably all sorts of chemicals from your shampoo, like sulfates and parabens. They’re definitely bad for you. But seriously, cereal dirties your hair. If you're bald, then it'll dirty your scalp. And don’t get me started on cereal with milk.
 
-![Cereal](/images/cereal.jpg)
+![Cereal](/img/cereal.jpg)
 
 
 ### 4. Watermelon
 
 Concussions.
 
-![Watermelon](/images/Watermelon.jpg)
+![Watermelon](/img/Watermelon.jpg)
 
 [1]: http://yale.spoonuniversity.com/2015/03/25/seven-foods-to-keep-the-spring-sniffles-away/
