@@ -6,6 +6,10 @@
 title: jchang's blog
 email: jonathan.chang@yale.edu
 description: Jonathan Chang's blog.
+<<<<<<< HEAD
+=======
+url: thegoldenratio.github.io # the base hostname & protocol for your site
+#url: http://localhost:4000 # local build
 keywords: ["Essays", "Python", "Data visualizations", "Jonathan Chang", "Blog"]
 
 #
