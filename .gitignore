@@ -1,3 +1,5 @@
 _site
-.DS_store
-images/.DS_Store
+.sass-cache
+_config.yml
+_drafts
+.ruby-version
