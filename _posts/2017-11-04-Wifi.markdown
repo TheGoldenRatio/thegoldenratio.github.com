@@ -3,6 +3,9 @@ layout: post
 title: "Around the World in 100 Wi-Fi Networks"
 date: 2017-11-04
 categories: [posts]
+excerpt: Wi-Fi histories have stories. This is a list of Wi-Fi networks that have been saved on my laptop in the last two years.
+image:
+  feature: wifi.png
 ---
 >*Abu Dhabi, California, Canada, Connecticut, D.C., Kazakhstan, Korea, Kyrgyzstan, Massachusetts, New Hampshire, New York, Russia, Spain, Tajikistan, Turkey, Utah, Uzbekistan, Virginia, from what I recognize*
 

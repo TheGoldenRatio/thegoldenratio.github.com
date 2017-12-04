@@ -4,11 +4,12 @@ title: "The Consortium"
 date: 2016-01-05
 comments: true
 categories: [posts]
+tags: Consortium austere
 ---
 
 This is the [Consortium][1].
 
-![Consortium New Hamshire Conference 2015](/images/sunapee.jpg)
+![Consortium New Hamshire Conference 2015](/img/sunapee.jpg)
 
 We are a collective of individuals, an eccentric body of intellectuals, a consortium of the greatest minds ever assembled. Our interests span legions, and yet we are bound by a singular burden to beauty and truth.
 

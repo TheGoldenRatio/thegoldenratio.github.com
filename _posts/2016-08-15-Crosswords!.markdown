@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
-<img src="/images/NYT15.2.png">
+<img src="/img/NYT15.2.png">
 
 The NYT Mini Crossword puzzle is a godsend; it's mana from heaven that renews itself each day in the form of a 5x5 interactive online grid, 10-20 clues, and the most melodic little piano jingle that signals successful completion.
 

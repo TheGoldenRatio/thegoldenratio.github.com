@@ -4,6 +4,7 @@ title: "Flask and Angular Workshop YHack 2015"
 date: 2015-11-18
 comments: true
 categories: [posts]
+tags: coding 
 ---
 
 My friends [Mike](http://www.mikewuis.me) and [Frank](http://frankjwu.com) did a session on building a simple BlackJack application in Flask with Angular.js frontend. Check it out!

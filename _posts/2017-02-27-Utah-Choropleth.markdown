@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
->Saw a really great D3 map [tutorial](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.7h8t0t2ze) by Mike Bostock, the creator of D3, and made these by following along. Higher resolution images [here](/images/ut-tracts-sqrt.svg) and [here](/images/ut-tracts-log.svg).
+>Saw a really great D3 map [tutorial](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.7h8t0t2ze) by Mike Bostock, the creator of D3, and made these by following along. Higher resolution images [here](/img/ut-tracts-sqrt.svg) and [here](/img/ut-tracts-log.svg).
 
 The following are choropleths[^1] which display the population densities of Utah (my home state, kind of). The data is taken from the Census Bureau's API and using d3-geo, GeoJSON, and TopoJSON, we're able to map out a state's geographic information in JSON form, then combine the Census Bureau info into the JSON.     
 
@@ -17,12 +17,12 @@ Then we reach the Wasatch Front, which is roughly composed of three blobs (the S
 There are a few more areas that we can pick out. At the southwestern corner of the state is St. George (met. pop. ~160,000) and to the northeast right above it is a tiny dot (Cedar City, pop. ~30,000). Vernal (~10,800), Price (~8,700), and Moab (almost invisible, pop. ~5,000) make a triangle in the eastern-central portion of the state. Park City (~8,000) and Heber (~13,000) are to the east of Salt Lake City.
 
 
-![utah-sqrt](/images/ut-tracts-sqrt.svg)
+![utah-sqrt](/img/ut-tracts-sqrt.svg)
 
 
 This next choropleth uses a log scale in order to bring out some of the less populous areas. Though we lose some of the resolution present in the previous graph, I like how it helps bring out some of the smaller cities that are barely visible in the previous graph[^4]. And because this graph is more colorful and I like the green/yellow color, I think I slightly prefer this graph even though it is a little less accurate in showing population concentration and distribution.
 
-![utah-log](/images/ut-tracts-log.svg)  
+![utah-log](/img/ut-tracts-log.svg)  
 
 
 <br>

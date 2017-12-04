@@ -6,7 +6,7 @@ comments: true
 categories: [posts]
 ---
 
-<img src= "/images/snap.png" height= "350 px" >
+<img src= "/img/snap.png" height= "350 px" >
 
 I have a huge fear of forgetting my memories. That may explain why I take pictures and videos obsessively. For the past 3 years, I’ve taken at least one picture almost every day. Though I honestly think that I have below-average memory, it’s incredible how much a single picture can jog my memory and help me remember details from a day, even if it’s several years back. And so I would take pictures of everything— my messy room with fresh laundry laid out in a pile on my bed, the rich orange foliage by the pedestrian bridges on Science Hill, the snow illuminated by lamps on Cross Campus, dates in art museums with Carleen.
 
