@@ -1,64 +1,593 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Jonathan's Blog</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="keywords" content="Jonathan Chang, jchang.me, blog, jchang, vlogs, d3, programming, coding, data">
-    <meta name="author" content="Jonathan Chang">
-    <meta name="description" content="I'm Jonathan Chang, a recent Yale political science and mechanical engineering grad. Dabbler in life; currently living in rural Kyrgyzstan.">
-
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-39387429-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-  </head>
+<!DOCTYPE html>
+<html lang="en">
 
 
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="/">Jonathan <br>Chang</a></h1><br>
-        <h3> Of Interest</h3>
-        <p class="view"><a href="/about.html">About
-          <small>Blog info</small></a>
-        </p>
-        <p class="view"><a href="/posts.html">Posts
-          <small>Humor, longform, thoughts</small></a>
-        </p>
-        <p class="view"><a href="/projects.html">Projects
-          <small>Cool stuff</small></a>
-        </p>
-  		<h3>Contact Me</h3>
-        <p class="view"><a href="https://twitter.com/iamjchang" target="tab">Twitter
-          <small> I only retweet</small></a></li>
-        </p>
-        <p class="view"><a href="mailto:jonathan.chang@yale.edu" target="tab">Email<small> Prefer job offers</small></a></li>
-        </p>
-      </header>
-      <section id="main">
-        <style>
-    img {
-        padding-bottom: 50px;
-        width: 95%;
-    }
-</style>
 
-<p><img src="/images/TLOJ1.png" alt="" />
-<img src="/images/TLOJ.png" alt="" />
-<img src="/images/TLOJ2.png" alt="" />
-<img src="/images/TLOnarui.png" alt="" /></p>
 
-      </section>
-  </body>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Jonathan Chang's blog.">
+  <meta name="keywords" content="Essays, Python, Data visualizations, Jonathan Chang, and Blog">
+  <meta name="author" content="jchang's blog">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f5f5">
+
+  <!-- Twitter Tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="jchang's blog">
+  <meta name="twitter:description" content="Jonathan Chang's blog.">
+  <meta name="twitter:image" content="thegoldenratio.github.io/img/favicon.png">
+
+  <!-- Open Graph Tags -->
+  <meta property="og:type" content="blog">
+  <meta property="og:url" content="thegoldenratio.github.io">
+  <meta property="og:title" content="jchang's blog">
+  <meta property="og:description" content="Jonathan Chang's blog.">
+  <meta property="og:image" content="thegoldenratio.github.io/img/favicon.png">
+  <title>jchang's blog</title>
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="thegoldenratio.github.io/css/font-awesome.min.css">
+  <link rel="stylesheet" href="thegoldenratio.github.io/css/main.css">
+
+  <link rel="canonical" href="thegoldenratio.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="jchang's blog" href="thegoldenratio.github.io /feed.xml " />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="thegoldenratio.github.io/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="thegoldenratio.github.io/favicon.png">
+</head>
+
+
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        
+
+<div class="cover-card table-cell table-middle">
+  
+  <img src="thegoldenratio.github.io/img/kumbel.jpg" alt="" class="avatar">
+  
+  <a href="thegoldenratio.github.io/" class="author_name">Jonathan Chang</a>
+  <span class="author_job"></span>
+  <span class="author_bio mbm"></span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="thegoldenratio.github.io/">home</a>
+        <span>/</span>
+      </li>
+       
+      <li class="nav-item">
+        <a href="thegoldenratio.github.io/about">About</a>
+        
+          <span>/</span>
+        
+      </li>
+              
+      <li class="nav-item">
+        <a href="thegoldenratio.github.io/posts/">Posts</a>
+        
+          <span>/</span>
+        
+      </li>
+        
+      <li class="nav-item">
+        <a href="thegoldenratio.github.io/projects/">Projects</a>
+        
+          <span>/</span>
+        
+      </li>
+        
+      <li class="nav-item">
+        <a href="thegoldenratio.github.io/tags/">Tags</a>
+        
+      </li>
+       
+    </ul>
+  </nav>
+  <script type="text/javascript">
+  // based on http://stackoverflow.com/a/10300743/280842
+  function gen_mail_to_link(hs, subject) {
+    var lhs,rhs;
+    var p = hs.split('@');
+    lhs = p[0];
+    rhs = p[1];
+    document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
+    document.write(":" + lhs + "@");
+    document.write(rhs + "?subject=" + subject + "\"><i class=\"fa fa-fw fa-envelope\"></i><\/a>");
+  }
+</script>
+<div class="social-links">
+  <ul>
+    
+      <li>
+      <script>gen_mail_to_link('jonathan.chang@yale.edu', 'I saw your blog');</script>
+      </li>
+    
+    <li><a href="http://twitter.com/iamjchang" class="social-link-item" target="_blank"><i class="fa fa-fw fa-twitter"></i></a></li>
+    
+    
+    <li><a href="http://linkedin.com/in/jchangme" class="social-link-item" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a></li>
+    
+    
+    
+    <li><a href="http://github.com/TheGoldenRatio" class="social-link-item" target="_blank"><i class="fa fa-fw fa-github"></i></a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="post-listing">
+        
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        4 NOV 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#Design">Design</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/New-Site" class="post-title" title="Website Design">Website Design</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        I've had the same website design for about 3 years. Here are some of the thoughts and the reasoning behind the changes that have been implemented.
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "thegoldenratio.github.io/img/oldsite.png"
+      
+      alt="Website Design feature image">
+
+      
+    </div><!-- /.image-wrap -->
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        4 NOV 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Wifi" class="post-title" title="Around the World in 100 Wi-Fi Networks">Around the World in 100 Wi-Fi Networks</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Wi-Fi histories have stories. This is a list of Wi-Fi networks that have been saved on my laptop in the last two years.
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "thegoldenratio.github.io/img/wifi.png"
+      
+      alt="Around the World in 100 Wi-Fi Networks feature image">
+
+      
+    </div><!-- /.image-wrap -->
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        4 NOV 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Letter1" class="post-title" title="Letter To My Students">Letter To My Students</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Hello UCA Class of 2021, I hope you're all doing well and have enjoyed the past few months of classes, as well as your break. I know several of you have also had your...
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "thegoldenratio.github.io/img/uca.jpg"
+      
+      alt="Letter To My Students feature image">
+
+      
+    </div><!-- /.image-wrap -->
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        28 OCT 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Ithaca" class="post-title" title="Ithaca">Ithaca</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        The drive to Ithaca was indeed a long one. On October 6, I left work early so I could drive to Ithaca with a childhood friend (Sam) to visit Anderson at Cornell. It also happened ...
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        21 SEP 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Notes" class="post-title" title="Notes from June 8th">Notes from June 8th</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        These were some notes that I made on the morning of June 8, 2017 while sitting in the Urmat Ordo hotel in Bishkek. Edited for spelling and grammar.
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "thegoldenratio.github.io/img/urmat2.JPG"
+      
+      alt="Notes from June 8th feature image">
+
+      
+    </div><!-- /.image-wrap -->
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        2 AUG 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/FRUtoBOS" class="post-title" title="FRU -> BOS (Pt. 1)">FRU -> BOS (Pt. 1)</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        On July 1, I was at Manas International Airport (FRU) to take a flight to Almaty, Kazakhstan. I was traveling with Miriam, whom I had met at Yale when she was a junior ...
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        14 MAY 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/NLP" class="post-title" title="Google Translate">Google Translate</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        This NYT Magazine article "The Great AI Awakening" has been one of the most interesting pieces I've read in a long time...
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        13 APR 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#data">data</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Network-Graph" class="post-title" title="Social Network Graph">Social Network Graph</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        a D3 visualization built for the University of Central Asia
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        27 MAR 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#video">video</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Uzbekistan-Pt-2" class="post-title" title="Uzbekistan Pt. 2">Uzbekistan Pt. 2</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <blockquote>
+  <p>5 months late. But better late than never?</p>
+</blockquote>
+
+<div class="video-responsive">
+<iframe width="650" height="400" src="https://www.youtube.com/embed/HyKvhy9Xn40?ecver=1" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        20 MAR 2017
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="thegoldenratio.github.io/categories/#posts">posts</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="thegoldenratio.github.io/Markdown-Tester" class="post-title" title="Markdown Tester in React">Markdown Tester in React</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- > Code [here]() -->
+
+<p>I’m trying to get better at React so I built a Markdown tester, which seems to be a fairly common project. It looks bad embedded into the blog so <a href="../react-projects/markdown/index.html">here</a> it is.</p>
+
+      </p>
+    </div>
+    
+
+    
+
+    <!--  -->
+
+</section>
+
+
+<div>
+    <a class="btn" href= "thegoldenratio.github.io/posts" >
+      Older posts
+    </a>
+</div>
+
+        <footer>
+  &copy; 2017 Jonathan Chang.
+</footer>
+
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="thegoldenratio.github.io/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="thegoldenratio.github.io/js/main.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-39387429-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+</body>
 </html>
