@@ -6,7 +6,7 @@ categories: [posts]
 excerpt: This NYT Magazine article "The Great AI Awakening" has been one of the most interesting pieces I've read in a long time...
 ---
 > Wrote this about 2 months ago; never got around to posting.   
->Files: Google [translation](../google_translate.txt), the paid [translation](../paid_translation.txt), and the official state [translation](http://www.akorda.kz/en/addresses/addresses_of_president/the-president-of-kazakhstan-nursultan-nazarbayevs-address-to-the-nation-of-kazakhstan-january-31-2017). Also iPython [notebook](https://nbviewer.jupyter.org/github/TheGoldenRatio/notebooks/blob/master/Translation%20Similarities.ipynb).
+>Files: Google [translation](../assets/google_translate.txt), the paid [translation](../assets/paid_translation.txt), and the official state [translation](http://www.akorda.kz/en/addresses/addresses_of_president/the-president-of-kazakhstan-nursultan-nazarbayevs-address-to-the-nation-of-kazakhstan-january-31-2017). Also iPython [notebook](https://nbviewer.jupyter.org/github/TheGoldenRatio/notebooks/blob/master/Translation%20Similarities.ipynb).
 
 This NYT Magazine article [The Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) has been one of the most interesting pieces I've read in a long time. The first section details how in November 2016, a University of Tokyo professor discovers that Google Translate was suddenly able to produce translations of literature from English to Japanese and vice versa with a clarity and literary style that matched human translations, even those done my writers as talented as Haruki Murakami.
 
