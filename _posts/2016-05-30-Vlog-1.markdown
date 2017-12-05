@@ -10,5 +10,6 @@ categories: [posts]
 
 <br><br>
 
-
+<div class="video-responsive">
 <iframe width="650" height="400" src="https://www.youtube.com/embed/fbcpJV8xx1k" frameborder="0" allowfullscreen></iframe>
+</div>
