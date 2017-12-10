@@ -24,7 +24,7 @@ Last year, I was living in Kyrgyzstan which honestly has been one of the most en
 
 ### Building this blog.
 
-This blog is a work in progress and was created with [Jekyll][2], a Ruby static site generator. I highly recommend it cause it's pretty simple and freely hosted on Github.
+This blog is a work in progress and was created with [Jekyll][2], a Ruby static site generator. I highly recommend it! I also worked with the Leonids theme.
 
 [1]: http://consortium.pw
 [2]: http://jekyllrb.com/
