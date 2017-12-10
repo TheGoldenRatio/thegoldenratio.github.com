@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Website Design"
-date: 2017-11-04
+date: 2017-12-03
 categories: [Design]
 excerpt: I've had the same website design for more than 3 years. Here are some of the thoughts and the reasoning behind the changes that have been implemented.
 image:
