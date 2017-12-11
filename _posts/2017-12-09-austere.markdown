@@ -2,7 +2,6 @@
 layout: post
 title: "Austere"
 date: 2017-12-09
-comments: true
 categories: [Musing]
 tags: austere Consortium Yale
 excerpt: One of the guiding principles of the Consortium is being austere. Like many of the world's best ideas, it started off as a novelty, possibly even a joke. During our junior year of college, we began congregating late at night...
