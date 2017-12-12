@@ -3,7 +3,7 @@ layout: post
 title: "Boston's First Snow"
 date: 2017-12-11
 categories: [Video]
-tags: film Youtube
+tags: film Youtube video
 ---
 > I think this first video really validates the idea that "coincidental" things happen a lot more when you go out there and do something.
 
