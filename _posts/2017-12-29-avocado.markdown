@@ -1,0 +1,20 @@
+---
+layout: post
+title: "I'm an avocado farmer now"
+date: 2017-12-29
+categories: [Photo]
+excerpt: I have a green thumb. In early November, I stuck 3 toothpicks into an avocado pit generously provided by my coworker, Brock.
+image:
+    feature: avocado.jpg
+tags: botany avocados
+
+---
+I have a green thumb. In early November, I stuck 3 toothpicks into an avocado pit generously provided by my coworker, Brock. He was going through an avocado toast phase which meant that he had a leftover avocado seed every day for about 10 days straight.
+
+I hate to see things go to waste. There was so much potential in those seeds. And the office desperately needed some greenery. Hence, toothpicks.
+
+It took over 6 weeks and to be honest there were times when I was starting to lose faith. But once the cracks started forming and the bottom split open, it was clear that this avocado seed would become a tree soon enough.
+
+I was going to do a cool time-lapse thing but I stopped after 3 days. Here's an attempt though. I've never made a gif before.
+
+<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><iframe src="https://giphy.com/embed/3oFzmj7htxqKNw6SVG" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/avocado-3oFzmj7htxqKNw6SVG">via GIPHY</a></p>
