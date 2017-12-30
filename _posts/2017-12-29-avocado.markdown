@@ -5,7 +5,7 @@ date: 2017-12-29
 categories: [Photo]
 excerpt: I have a green thumb. In early November, I stuck 3 toothpicks into an avocado pit generously provided by my coworker, Brock.
 image:
-    feature: avocado.jpg
+    feature: avocado.JPG
 tags: botany avocados
 
 ---
