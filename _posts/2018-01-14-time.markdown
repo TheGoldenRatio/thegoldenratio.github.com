@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Time gets away"
+date: 2018-01-14
+categories: [Posts]
+tags: time musing
+excerpt: Two theories I've heard about why time seems to go by faster as we age. And why I prefer one over the other.
+image:
+    feature: naryn_mist.JPG
+---
+>The photo is of mist over the "Blue Mountains" in Naryn across from the UCA campus. Taken May 6 of 2017, but it feels like it was much longer ago, because so many things have happened since.
+
+Two theories I've heard about why time seems to go by faster as we age.
+
+1) Proposed by my college friend, Joseph: **time as a proportion of our total life experience**. As we get older, every second is proportionally a smaller amount of our total life. That is, when you're 2 years old, the next year is ~50% of your total life. When you're 20, the next year is only about 5% of your total life. By the time you're 100, each following year is 1% or less of your total life. Thus, each year seems less substantial as a proportion of your life.
+
+2) Proposed by a family friend of my housemate, Philip: **time as a function of the perceived novelty of experiences**. Much like some compression algorithms, our brains only index experiences that are sufficiently novel from our other experiences. Repetitive experiences don't get rewritten in our brains and are partitioned in the same spaces. Our perception of time is correlated to the number of new writes to our brain. This is why work weeks go by quickly (maybe depends on the person and work environment...) but a vacation to a brand new place occupies more brain space and feels more temporally substantial.
+
+I think the first theory is more defensible and intuitive but I like the second theory more because it seems less deterministic. If we are privileged enough to be in the position to be able to choose to see and experience new things (and I currently am), I think this novelty of experience mode of thinking makes it compelling to keep trying to do new things.
+
+The last line uttered in the Coen Brother's movie *True Grit* (a favorite of mine) is that "time just gets away from us." Perhaps time gets away from us all. But if I can, I would like to make sure I don't hasten that progression by letting life just happen. And perhaps by choosing to be in novel, challenging environments around people that help me experience new things, I can look back at my life when I'm old and feel that my days have been full and not wasted.
