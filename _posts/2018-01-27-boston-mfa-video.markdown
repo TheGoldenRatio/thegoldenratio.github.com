@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boston MFA"
-date: 2018-01-14
+date: 2018-01-27
 categories: [Video]
 tags: film Youtube video art
 ---
