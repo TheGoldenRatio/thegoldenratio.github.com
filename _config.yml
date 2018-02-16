@@ -14,11 +14,11 @@ keywords: ["Essays", "Python", "Data visualizations", "Jonathan Chang", "Blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          America/New_York
-markdown:          kramdown
-highlighter:       rouge
+timezone: America/New_York
+markdown: kramdown
+highlighter: rouge
 excerpt_separator: <!--more-->
-permalink:         /:title
+permalink: /:title
 
 kramdown:
   auto_ids: true
@@ -71,4 +71,6 @@ owner:
 ###################################
 # Plugins
 ####################################
+plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
