@@ -3,11 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: jchang's blog
+title: Jonathan Chang | Art, Culture, Data
 email: jonathan.chang@yale.edu
-description: Jonathan Chang's blog.
-#url: thegoldenratio.github.com # the base hostname & protocol for your site
-keywords: ["Essays", "Python", "Data visualizations", "Jonathan Chang", "Blog"]
+description: "Jonathan Chang's blog. Essays and videos about travel, data, code, media. Former Yale undergrad & Univ. of Central Asia staff. Currently a business consultant."
+keywords: ["Jonathan Chang", "jchang", "jchang.me", "blog", "posts", "videos", "d3", "Python", "Data visualizations", "coding", "Yale", "consulting", "UCA", "vlog", "Youtube"]
 
 #
 ###################################

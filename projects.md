@@ -6,6 +6,10 @@ permalink: /projects
 
 <hr/>
 
+### Strategy and innovation consulting projects
+I'm currently a consultant at [New Markets Advisors](newmarketsadvisors.com) in Boston, a management consulting firm specializing in innovation, strategy, and the Jobs to Be Done framework. Day-to-day involves primary and secondary research (quantitative and qualitative) and building business strategy and innovation recommendations. Some of the industries I've been working in: fintech, pharma, healthcare, tech, education, benefits. Clients range from the Fortune 100 to midsize companies.
+
+
 ### University of Central Asia Institutional research
 Created an institutional research report with D3 visualizations based on admissions data, classroom data, running and analyzing surveys regarding student campus life and academics. Due to nature of data, please request report via email if needed.
 
