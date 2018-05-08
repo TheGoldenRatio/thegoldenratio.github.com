@@ -1,0 +1,124 @@
+---
+layout: post
+title: "Wifi Histories"
+date: 2017-10-12
+categories: [posts]
+---
+
+My computer stores all of the wifi hotspots that I've ever used from my phone or computer. These are the stories behind each of them.
+
+## Boys-guest, Boys, HOME-4492
+
+When my dad set up the Wifi at our house, he decided to call it Boys. While my brothers and I thought (and still think) it was a bit weird, there was some logic to it. Our house is 80% male and my mom sometimes complains that she's all alone as the only female in the house. After having me and my middle brother, I think she wanted a daughter but got Vincent instead and then stopped trying after that.
+
+We recently got a new router though and now our Wifi is called  . Boys and Boys-guest is still there for some reason though.
+
+## YaleSecure, YaleGuest, Yale wireless
+YaleSecure was the go-to network during my time in university. It was fast and reliable-- usually. The few times it failed, there was total mayhem. I think once it was close to finals (might have been during our reading period) and I swear that's what everyone was talking about. It seemed like a good proportion of campus was running around trying to get internet at Starbucks and Blue State. For some though, it was Deus Ex Machina. No better excuse for emailing your TF from your phone explaining why your essay absolutely *had to be* turned in tomorrow, and preferably in the evening.
+
+I recently went back to Yale as a post-grad (a frightening thought in some ways).
+
+Yale wireless never worked.
+
+## Seoul Wifi, iptime, Beans&Berries_Wi+
+South Korea is incredibly connected, and you probably already knew that. Still, I was pretty shocked to see wifi coverage that bascially cover every square foot in the city, even inside the subways. Apparently you can purchase a plan from a provider, like iptime, that will basically work where you walk 
+
+## Aena_Kubi
+
+This is apparently the Barcelona airport's
+
+TP-Link_A448_5G
+HOME-4492
+304ColonialTerrace
+BrookingsGuest
+Microtel Naples
+YaleGuest
+PANERA
+Ramada
+Holiday Inn Aeroport de Montreal
+Days Inn Wifi
+HI Express Bradley Airport
+Oakwood 4E
+Google Starbucks
+F1
+F1-5G
+Golden Tulip
+CoffeeBean_eWirelessFreeHotspot
+loganwifi
+Boingo Hotspot
+Boys-guest
+Turk Telecom Wifi
+Urmat Ordo
+royalbeach
+UCA- Wifi
+UCA- Guest
+KHAN TENGRI 3
+TP-Link_FFF2
+Grand
+bibikhanum1999988oza
+TP-Link
+Verizon_Guest
+_LAX Free Wi-Fi
+HOME-5633-2.4
+80 Mt Hunger Wi-Fi network
+RooM-1402
+Classic-Hotel
+DORMA
+Dorm-A
+Coffee Relax
+Kamila
+GREEN HOUSE HOSTEL
+#SFO FREE WIFI
+Bawksquad
+Bawksquad-2.4G
+Boys
+Newmarkets-5GHz
+Loews_Guest
+chicken star
+Potbelly Wifi
+much-internet
+GoogleGuest-Legacy
+HSC_Guest
+Public Wifi FREE
+Alta Guest
+event
+SK_Airport-freezone_3
+AEROFLOT_OnAir
+AIRPORT FREE WIFI
+Raikhan
+MIT GUEST
+PECTA_TIC
+M1-FreeWifi
+Columbia University
+Beans&Berries_Wi+
+Apple Store
+Gangnam Wifi
+SMART PARK
+BigApple_4
+MegaFon Free
+GWconnect
+AU-guest
+SMART- Park
+AirportWiFi
+museumOPEN
+Seoul Wifi
+Fairfield_Guest
+Aena_Kubi
+Sierra
+Urmat Ordo 3
+FreeWiFiAirport-5
+MANAS_FREE
+BigApple_2
+Telekom
+Sheremetyevo Wi-Fi
+MUSEUM_Wifi
+TheHost
+IstanbulModern-Guest
+Apple Demo
+MERCURY_917A82
+SLExpress
+DoNazarbayt_Hostel
+Wyndham Garden hotel
+Seoul WIfi
+iptime
+Chesterton 2.4
