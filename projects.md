@@ -6,32 +6,32 @@ permalink: /projects
 
 <hr/>
 
-### Strategy and innovation consulting projects
-I'm currently a consultant at [New Markets Advisors](newmarketsadvisors.com) in Boston, a management consulting firm specializing in innovation, strategy, and the Jobs to Be Done framework. Day-to-day involves primary and secondary research (quantitative and qualitative) and building business strategy and innovation recommendations. Some of the industries I've been working in: fintech, pharma, healthcare, tech, education, benefits. Clients range from the Fortune 100 to midsize companies.
+### Strategy and innovation consultant
+I'm currently a consultant at [New Markets Advisors](newmarketsadvisors.com) in Boston, a management consulting firm specializing in innovation, strategy, and the Jobs to Be Done framework. Day-to-day involves primary and secondary research (quantitative and qualitative) and building business strategy and innovation recommendations. Some of the industries I've been working in: financial services & fintech, pharma, healthcare, tech, and education. Clients range from the Fortune 100 to midsize companies.
 
+Here's a [quiz app]((https://jobstobedone.herokuapp.com)) where you can learn more about the Jobs to be Done framework, which helps companies and organizations successfully innovate by identifying fundamental customer needs.
 
-### University of Central Asia Institutional research
-Created an institutional research report with D3 visualizations based on admissions data, classroom data, running and analyzing surveys regarding student campus life and academics. Due to nature of data, please request report via email if needed.
+### [University of Central Asia](http://ucentralasia.org) (July 2016 -)
+I was part of the team that opened UCA’s Naryn campus in its inaugural year! I was responsible for planning co-curricular activities, student life events (athletics and clubs), academic advising, residential life, and mentorship.
 
-<img src="/img/uca_corr.png" height="300px">
-<br>
+I also taught computer programming with weekly lessons on Python and web development in Flask, Bootstrap, Jekyll. I created an institutional research report with D3 visualizations based on admissions data, classroom data, running and analyzing surveys regarding student campus life and academics in order to inform decisions on admissions, facilities, and student services.
 
-### React Markdown Tester
-Test and preview Markdown code with this [React app](../react-projects/markdown/index.html).
+Here's a cool
+<a href= 'https://www.devex.com/news/a-world-class-university-town-89014'> story </a> on the university from Devex (I have brief cameo!) and here's an essay I wrote on [Medium](https://medium.com/new-markets-insights/the-university-of-central-asia-educational-innovation-in-the-mountains-of-rural-kyrgyzstan-54c71e2a2c4).
+
+<br> <img src="/img/ucagroup.jpg" alt="UCA">
 <br>
 
 ### D3 Visualizations
 Recently learned some D3 and made some things: an updating [dashboard](d3/dash.html), social network [graph](d3/net.html), population density [maps](posts/Utah-Choropleth.html), Sankey [diagram](d3/sankey.html) , [donut](d3/donut.html) chart.
 <br>
 
-### <a href= 'http://ucentralasia.org/'>UCA Programming</a> (July 2016 -)
-I moved to Kyrgyzstan in July 2016 to work for the University of Central Asia. I've been teaching first-year students how to code. Here's a cool
-<a href= 'https://www.devex.com/news/a-world-class-university-town-89014'> story </a> on the university. I might also have two line cameo.
+### Software developer (April - July 2016)
+Worked as a software developer in NYC for a tech consultancy briefly before moving to Kyrgyzstan. Worked with REST APIs, Node, React to create an app for a major ticket reselling marketplace that was (is?) used in production.
 <br>
 
-### <a href= "http://celena.co">Celena</a> (April - July 2016)
-Worked as a full-stack engineer in NYC briefly before moving to Kyrgyzstan. Worked with REST APIs, Node, React to create a webapp used in production by a major ticket marketplace.
-<br>
+### React Markdown Tester
+Test and preview Markdown code with this [React app](../react-projects/markdown/index.html).
 
 ### EPA Air Quality Monitor (January- June 2016)
 With Yale faculty and student team, developed prototype of cost-effective air quality monitors to capture high-resolution air pollution data in the city of Baltimore for a $10 million EPA research project. Designed and tested monitor’s physical components and housing.
