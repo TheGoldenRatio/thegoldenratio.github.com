@@ -4,27 +4,37 @@ title: About
 permalink: /about
 ---
 
-# About this blog
+# About me
 
 --------------------------------------------------------------------------------
 
 
-<img class="no-left" src="/img/namazu.jpg" alt="guilty namazu">
-*<small> Namazu convicted of causing 1855 Edo earthquake. 19th century Japanese woodblock print.</small>*
+<img class="left-no" src="/img/profile_bw.png" alt="this is a picture of me" width= '175 px'>
 
-### First and foremost, a disclaimer.
+### A bit about me
 
-I've heard people say that social media serves as a reflection for our current (and often aspirational) conceptions of self. I think that writing and blogging (esp. about yourself) has a similar function. As such, this blog will constantly evolve as I think of weird things to post (and then later cringe) on. The probability is high that many things will make no sense because I enjoy extremely extended, convoluted inside jokes. I realize that some people do not. Sorry.
+Hi, I'm Jonathan Chang! I'm currently a consultant at a leading **strategy and innovation consulting** firm in Boston. But I'm in the process of transitioning away from consulting towards doing more **data science and engineering**. I love wading through data and I want to combine my **analytical skills**, **programming chops**, and **business acumen**. My goal is to work with organizations that create amazing solutions to address the world's most pressing issues.
 
-### A bit about me.
+I graduated **cum laude from Yale University** in 2016, where I double majored in **political science** and **mechanical engineering**. My senior political science thesis was a global comparitive analysis of state **pension/welfare system typologies**, with an emphasis on China. My senior design project was creating a prototype of a low cost, networked **air quality monitor for the US EPA**, in order to create a high resolution, real-time air pollution map for the city of Baltimore.
 
-I'm Jonathan Chang, a recent Yale University grad (HC/FFKACC '16). I was a double major in political science and mechanical engineering because I'm interested in everything and often pretty indecisive. I'm currently into international politics and development, entrepreneurship, data, and design. I love art, Carleen, the [Consortium][1], crosswords, good infographics, museums, orange(s), pretending to be a weightlifter, reading, my suitemates, traveling, UCA people, and UCW, in alphabetical order.
+After graduation, I lived in **Kyrgyzstan** for one year, which honestly has been one of the most enjoyable and meaningful things I've done in my (so far, short) life. I was a part of the start-up team for the **University of Central Asia**, the first fully residential, liberal arts university in the region. It was an amazing institution and experience.
 
-Last year, I was living in Kyrgyzstan which honestly has been one of the most enjoyable and meaningful things I've done in my (so far, short) life. 10/10 would recommend just moving to a place you know nothing about if the chance ever comes up. This upcoming year, I'll be working as a management consultant in Boston. I'll keep you posted.
+### My interests
 
-### Building this blog.
+ I have a lot of interests including:
+- data visualization and analytics
+- statistics, machine learning, natural language processing
+- technologies, entrepreneurship, and education for developing contexts
 
-This blog is a work in progress and was created with [Jekyll][2], a Ruby static site generator. I highly recommend it! I also worked with the Leonids theme.
+For fun, I like to:
+- solve the New York Times Crossword (sadly, can only constently solve up to Thursdays)
+- watch and critique film (def *not* a snob and can I tell you about MoviePass??)
+- travel, write, and make videos
 
-[1]: http://consortium.pw
-[2]: http://jekyllrb.com/
+### Building this blog
+
+This blog has been a work in progress (the first commit was *5* years ago!) and was created with Jekyll, a Ruby static site generator. I highly recommend it!
+
+### Finally, a disclaimer
+
+I've heard people say that social media serves as a reflection for our current (and often aspirational) conceptions of self. I think that writing and blogging (esp. about yourself) has a similar function. This blog is just a collection of random thoughts and updates on my life. I really like extended inside jokes (particularly those pertaining to [The Consortium](http://consortium.pw), so if anything doesn't make sense you can just ask me about it.
