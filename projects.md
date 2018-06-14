@@ -9,7 +9,7 @@ permalink: /projects
 ### Strategy and innovation consultant
 I'm currently a consultant at [New Markets Advisors](newmarketsadvisors.com) in Boston, a management consulting firm specializing in innovation, strategy, and the Jobs to Be Done framework. Day-to-day involves primary and secondary research (quantitative and qualitative) and building business strategy and innovation recommendations. Some of the industries I've been working in: financial services & fintech, pharma, healthcare, tech, and education. Clients range from the Fortune 100 to midsize companies.
 
-Here's a [quiz app]((https://jobstobedone.herokuapp.com)) where you can learn more about the Jobs to be Done framework, which helps companies and organizations successfully innovate by identifying fundamental customer needs.
+Here's a [quiz app](https://jobstobedone.herokuapp.com) that I built, where you can learn more about the Jobs to be Done framework, which helps organizations successfully innovate by identifying fundamental customer needs.
 
 ### [University of Central Asia](http://ucentralasia.org) (July 2016 -)
 I was part of the team that opened UCA’s Naryn campus in its inaugural year! I was responsible for planning co-curricular activities, student life events (athletics and clubs), academic advising, residential life, and mentorship.
