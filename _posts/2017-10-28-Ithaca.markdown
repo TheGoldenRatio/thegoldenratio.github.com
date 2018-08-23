@@ -4,6 +4,7 @@ title: "Ithaca"
 date: 2017-10-28
 categories: [posts]
 excerpt: The drive to Ithaca was indeed a long one. On October 6, I left work early so I could drive to Ithaca with a childhood friend (Sam) to visit Anderson at Cornell. It also happened ...
+tags: travel
 ---
 
 > *As you set out for Ithaka* <br>

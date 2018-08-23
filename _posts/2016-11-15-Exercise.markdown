@@ -4,6 +4,7 @@ title: "Exercise"
 date: 2016-11-15
 comments: true
 categories: [posts]
+tags: health
 ---
 Exercise is a pretty big part of my life. I credit swimming pretty consistently throughout junior high school and high school for a big part of my personal and academic discipline at the time and for just letting me eat as much as I wanted without consequence. Since college though, I’ve largely stopped swimming. Chlorine is pretty tough on skin and hair. And frankly swimming takes too much mental willpower and it’s just exhausting in an only somewhat satisfying way. TL;DR Swimming hurts too much.
 

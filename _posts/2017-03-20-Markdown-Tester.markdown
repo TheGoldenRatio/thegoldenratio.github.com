@@ -3,6 +3,7 @@ layout: post
 title: "Markdown Tester in React"
 date: 2017-03-20
 categories: [posts]
+tags: coding
 ---
 <!-- > Code [here]() -->
 

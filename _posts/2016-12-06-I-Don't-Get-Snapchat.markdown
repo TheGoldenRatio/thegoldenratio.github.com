@@ -4,6 +4,7 @@ title: "I Don't Get Snapchat"
 date: 2016-12-06
 comments: true
 categories: [posts]
+tags: tech memory
 ---
 
 <img src= "/img/snap.png" height= "350 px" >

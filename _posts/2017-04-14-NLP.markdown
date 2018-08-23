@@ -4,6 +4,7 @@ title: "Google Translate"
 date: 2017-05-14
 categories: [posts]
 excerpt: This NYT Magazine article "The Great AI Awakening" has been one of the most interesting pieces I've read in a long time...
+tags: tech
 ---
 > Wrote this about 2 months ago; never got around to posting.   
 >Files: Google [translation](../assets/google_translate.txt), the paid [translation](../assets/paid_translation.txt), and the official state [translation](http://www.akorda.kz/en/addresses/addresses_of_president/the-president-of-kazakhstan-nursultan-nazarbayevs-address-to-the-nation-of-kazakhstan-january-31-2017). Also iPython [notebook](https://nbviewer.jupyter.org/github/TheGoldenRatio/notebooks/blob/master/Translation%20Similarities.ipynb).

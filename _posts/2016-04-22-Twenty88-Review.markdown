@@ -4,6 +4,7 @@ title: "Twenty88 Review"
 date: 2016-04-22
 comments: true
 categories: [posts]
+tags: Yale music
 ---
 
 >I published my first album review! It's also the first thing I've ever published for a Yale publication. Actually, any publication. Thank you, [Joe](http://joekuperschmidt.com/) for being desperate enough to commission me. Read it here at the [Herald](http://yaleherald.com/reviews/music-twenty88/). Also below:

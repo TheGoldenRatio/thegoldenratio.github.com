@@ -4,6 +4,7 @@ title: "RIP Walgreens Hat"
 date: 2016-10-26
 comments: true
 categories: [posts]
+tags: travel
 ---
 
 <img src="/img/w_hats.jpg" align="middle">

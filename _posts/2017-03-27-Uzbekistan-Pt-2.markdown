@@ -3,6 +3,7 @@ layout: post
 title: "Uzbekistan Pt. 2"
 date: 2017-03-27
 categories: [video]
+tags: travel UCA Youtube
 ---
 > 5 months late. But better late than never?
 

@@ -3,7 +3,7 @@ layout: post
 title: "'Tis the Season to be Glassblowing"
 date: 2018-01-04
 categories: [Video]
-tags: film Youtube video art
+tags: Youtube video art
 ---
 
 <div class="video-responsive">

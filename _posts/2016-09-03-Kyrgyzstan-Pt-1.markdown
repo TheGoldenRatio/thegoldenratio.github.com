@@ -4,6 +4,7 @@ title: "Kyrgyzstan Pt. 1!"
 date: 2016-09-03
 comments: true
 categories: [posts]
+tags: Youtube UCA video
 ---
 
 This is super overdue. But here's the first part of my interview that happened almost 3(!) months ago.

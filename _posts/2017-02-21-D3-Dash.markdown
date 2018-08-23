@@ -4,6 +4,7 @@ title: "D3 Dash"
 date: 2017-02-21
 comments: true
 categories: [posts]
+tags: UCA coding visualization
 ---
 
 >D3 works! Major breakdowns, class of 2021. Click on donut chart to update bar chart figures. 

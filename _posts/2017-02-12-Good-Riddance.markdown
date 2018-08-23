@@ -4,6 +4,7 @@ title: "Good Riddance"
 date: 2017-02-12
 comments: true
 categories: [posts]
+tags: Yale
 ---
 Why does all the cool stuff happen after I graduate? Prime examples: a few months ago Yale (2-7) beat Harvard at The Game for the first time in a decade, denying them the Ivy League championship. That and uhh.... I'm pretty out of the loop in Kyrgyzstan.
 

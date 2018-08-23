@@ -4,6 +4,7 @@ title: "Learning D3"
 date: 2017-01-24
 comments: true
 categories: [posts]
+tags: coding visualization
 ---
 > Note: Updated April 2017 with completed graph.
 

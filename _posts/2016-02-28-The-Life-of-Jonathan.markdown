@@ -4,6 +4,7 @@ title: "The Life of Jonathan"
 date: 2016-02-28
 comments: true
 categories: [posts]
+tags: art Kanye
 ---
 
 <img src="/img/TLOJ1.png" style="max-width: auto">  

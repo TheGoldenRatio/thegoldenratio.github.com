@@ -4,6 +4,7 @@ title: "Crosswords!"
 date: 2016-08-15
 comments: true
 categories: [posts]
+tags: crosswords
 ---
 
 <img src="/img/NYT15.2.png">

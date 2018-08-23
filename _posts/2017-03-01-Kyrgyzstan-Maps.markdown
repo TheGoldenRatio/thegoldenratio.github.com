@@ -4,6 +4,7 @@ title: "Making A Better Kyrgyzstan Map"
 date: 2017-03-12
 comments: true
 categories: [posts]
+tags: maps UCA
 ---
 > You can find my code and files [here](https://github.com/TheGoldenRatio/maps-d3). Larger map [here](../img/kg100.svg). Refer to my previous post on mapping with D3 for more info. 
 

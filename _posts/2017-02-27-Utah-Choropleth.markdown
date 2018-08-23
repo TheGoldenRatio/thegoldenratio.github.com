@@ -4,6 +4,7 @@ title: "Utah Choropleth"
 date: 2017-02-27
 comments: true
 categories: [posts]
+tags: coding UCA
 ---
 
 >Saw a really great D3 map [tutorial](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.7h8t0t2ze) by Mike Bostock, the creator of D3, and made these by following along. Higher resolution images [here](/img/ut-tracts-sqrt.svg) and [here](/img/ut-tracts-log.svg).

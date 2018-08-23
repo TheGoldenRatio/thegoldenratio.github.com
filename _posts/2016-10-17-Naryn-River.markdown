@@ -4,6 +4,7 @@ title: "Naryn River"
 date: 2016-10-17
 comments: true
 categories: [posts]
+tags: video Youtube travel UCA
 ---
 
 <div class="video-responsive">

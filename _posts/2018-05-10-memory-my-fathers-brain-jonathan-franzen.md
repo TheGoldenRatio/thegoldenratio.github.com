@@ -5,6 +5,7 @@ date: 2018-05-10
 comments: true
 categories: [posts]
 excerpt: I think belief about the plasticity of memory (and therefore it's unreliability) has led to me to try to document things in photograph and video more meticulously. The following excerpt is from Jonathan Franzen's 'My Father's Brain'. It's greatly affected my view on memory and rememory (to borrow Toni Morrison's word) and how we shape our own memories (consciously and unconsciously).
+tags: memory psych
 ---
 
 >I think belief about the plasticity of memory (and therefore it's unreliability) has led to me to try to document things in photograph and video more meticulously. The following excerpt is from Jonathan Franzen's *My Father's Brain*. It's greatly affected my view on memory and rememory (to borrow Toni Morrison's word) and how we shape our own memories (consciously and unconsciously). Copyright infringement not intended.

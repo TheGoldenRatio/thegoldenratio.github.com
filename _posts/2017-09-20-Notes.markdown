@@ -6,6 +6,7 @@ categories: [posts]
 excerpt: These were some notes that I made on the morning of June 8, 2017 while sitting in the Urmat Ordo hotel in Bishkek. Edited for spelling and grammar.
 image:
     feature: urmat2.JPG
+tags: UCA
 ---
 > These were some notes that I made on the morning of June 8, 2017 while sitting in the Urmat Ordo hotel in Bishkek. Edited for spelling and grammar.
 

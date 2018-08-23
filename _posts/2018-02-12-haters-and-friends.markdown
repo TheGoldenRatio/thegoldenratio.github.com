@@ -3,7 +3,7 @@ layout: post
 title: "我有 haters 但是也有 friends"
 date: 2018-02-12
 categories: [Video]
-tags: film Youtube video
+tags: Youtube video
 ---
 
 <div class= "video-responsive">

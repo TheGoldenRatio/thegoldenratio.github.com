@@ -4,6 +4,7 @@ title: "Vlog 4"
 date: 2016-06-07
 comments: true
 categories: [posts]
+tags: Youtube video NYC
 ---
 
 <div class="video-responsive">

@@ -6,6 +6,7 @@ categories: [posts]
 excerpt: Hello UCA Class of 2021, I hope you're all doing well and have enjoyed the past few months of classes, as well as your break. I know several of you have also had your...
 image:
     feature: uca.jpg
+tags: UCA
 ---
 *From: Jonathan Chang <j\*\*******@gmail.com>* <br>
 *Date: Thu, Nov 2, 2017 at 12:50 AM EST* <br>

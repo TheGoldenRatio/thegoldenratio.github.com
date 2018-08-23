@@ -4,6 +4,7 @@ title: "FRU -> BOS (Pt. 1)"
 date: 2017-08-02
 categories: [posts]
 excerpt: On July 1, I was at Manas International Airport (FRU) to take a flight to Almaty, Kazakhstan. I was traveling with Miriam, whom I had met at Yale when she was a junior ...
+tags: travel UCA
 ---
 > *Today (August 2), I finished my second day of work at my new job. It was a rainy day and as I walked home I realized I really missed being at UCA.*
 

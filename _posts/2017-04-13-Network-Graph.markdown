@@ -4,6 +4,7 @@ title: "Social Network Graph"
 date: 2017-04-13
 categories: [data]
 excerpt: a D3 visualization built for the University of Central Asia
+tags: D3 visualization
 ---
 > The visualization probably doesn't look very good on a mobile device. [Here](../d3/net.html) it is by itself. Drag and hover to interact with the visualization.
 

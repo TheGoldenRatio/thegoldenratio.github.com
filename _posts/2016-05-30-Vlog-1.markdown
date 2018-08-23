@@ -4,6 +4,7 @@ title: "Vlog 1"
 date: 2016-05-30
 comments: true
 categories: [posts]
+tags: Youtube video NYC
 ---
 
 >So I think I'm gonna try making videos for a bit. We'll see where it goes!
