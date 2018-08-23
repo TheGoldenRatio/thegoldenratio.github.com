@@ -4,36 +4,36 @@ title: About
 permalink: /about
 ---
 
-# "the professional page"
+# About
 
 --------------------------------------------------------------------------------
 <br>
 <img class="left-no" src="/img/profile_bw.png" alt="this is a picture of me" width= '175 px'>
 
-### A bit about myself:
+### A bit of myself:
 
-- I'm currently a consultant at a leading **strategy and innovation consulting** firm in Boston
-- I'm transitioning to **data science and engineering**. I love wading through data and I want to combine my **analytical skills**, **programming chops**, and **business acumen**
-- I graduated **cum laude from Yale University** in 2016 where I double majored in **political science** and **mechanical engineering**
-- After graduation, I lived in **Kyrgyzstan** for one year, which honestly has been one of the most enjoyable and meaningful things I've done in my (so far, short) life
-- While in Kyrgyzstan, I was a part of the **start-up team** for the **University of Central Asia**, the first fully residential, liberal arts university in the region. It was an amazing institution and experience.
+- I'm currently a **product manager** at an **AI startup**. We're using **natural language generation** and large datasets to automate news publishing
+- I was a consultant at a leading **strategy / innovation consulting** firm in Boston
+- I was a part of the **start-up team** for the **University of Central Asia** in Kyrgyzstan. It was the first fully residential, liberal arts university in the region
+- I graduated cum laude from **Yale University** in 2016. I double majored in **political science** and **mechanical engineering**
+
 
 ### My interests:
 
-- data visualization and analytics
+- data visualization and design
 - statistics, machine learning, natural language processing
-- technologies, entrepreneurship, and education for developing contexts
+- tech, entrepreneurship, and education for international development
 
 ### For fun, I like to: 
 
 - solve the New York Times Crossword
 - watch and critique film
 - travel, write, make videos
-- read a lot
+- read
 
 ### Building this blog:
 
-This blog has been a work in progress (the first commit was *5* years ago!) and was created with Jekyll, a Ruby static site generator. I highly recommend it!
+This blog has been a work in progress (the first commit was over *5* years ago!) and was created with Jekyll, a Ruby static site generator. I highly recommend it!
 
 ### Finally, a disclaimer:
 
