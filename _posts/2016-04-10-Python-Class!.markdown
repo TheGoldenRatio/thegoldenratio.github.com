@@ -4,6 +4,7 @@ title: "Python Class!"
 date: 2016-04-1
 comments: true
 categories: [posts]
+tags: Yale coding
 ---
 
 This weekend [Mike](mikewuis.me), [Kevin](ktizzel.com), and I taught a Python class for YHack's [Code Boola](http://codeboola.yhack.org/), an event that helps high school kids around the New Haven area learn how to code. Below is the slide deck. We also created a test script with several coding challenges for them to complete.
