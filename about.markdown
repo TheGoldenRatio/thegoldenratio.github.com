@@ -37,4 +37,4 @@ This blog has been a work in progress (the first commit was over *5* years ago!)
 
 ### Finally, a disclaimer:
 
-I've heard people say that social media serves as a reflection for our current (and often aspirational) conceptions of self. I think that writing and blogging (esp. about yourself) has a similar function. This blog is just a collection of random thoughts and updates on my life. I really like extended inside jokes (particularly those pertaining to [The Consortium](http://consortium.pw), so if anything doesn't make sense you can just ask me about it.
+I've heard people say that social media serves as a reflection for our current (and often aspirational) conceptions of self. I think that writing and blogging (esp. about yourself) has a similar function. This blog is just a collection of random thoughts and updates on my life. I really like extended inside jokes (particularly those pertaining to [The Consortium](http://consortium.pw)), so if anything doesn't make sense you can just ask me about it.
