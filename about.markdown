@@ -12,10 +12,10 @@ permalink: /about
 
 ### A bit of myself:
 
-- I'm currently a **product manager** at an **AI startup**. We're using **natural language generation** and large datasets to automate news publishing
-- I was a consultant at a leading **strategy / innovation consulting** firm in Boston. Industries I worked in: financial services, fintech, pharma, healthcare, software.  Clients ranged from the Fortune 100 to startups
-- I was a part of the **start-up team** for the **University of Central Asia** in Kyrgyzstan. I worked in Student Life and helped to establish campus life and extracurriculars at the first fully residential, liberal arts university in Central Asia
-- I graduated cum laude from **Yale University** in 2016. I double majored in **political science** and **mechanical engineering**. I was a bit indecisive
+- I'm currently a **product manager** at an [**AI startup**](https://demo.unibit.ai/). We're using **natural language generation** and large datasets to automate news publishing
+- I was a consultant at a leading [**strategy / innovation consulting firm**](https://www.newmarketsadvisors.com/) in Boston. Industries I worked in: financial services, fintech, pharma, healthcare, software.  Clients ranged from the Fortune 100 to startups
+- I was a part of the **start-up team** for the [**University of Central Asia**](https://www.ucentralasia.org/) in Kyrgyzstan . I worked in Student Life and helped to establish campus life and extracurriculars at the first fully residential, liberal arts university in Central Asia
+- I graduated cum laude from **Yale University** in 2016. I double majored in **political science** and **mechanical engineering**
 
 
 ### My interests:

@@ -6,6 +6,10 @@ comments: true
 categories: [posts]
 tags: UCA Kyrgyzstan
 ---
+
+<img src="/img/temirkhan.JPG">  
+
+
 I believe that Temirkhan Turgunbaev's first name means "Iron King". It is a fitting name for a young man who possessed a will of iron. Even among a group of talented, generally-motivated young students, Temirkhan displayed an unusual drive in his academics and was constant in his quest for self-improvement. He had an enviable level of self-discipline -- even though he was a passionate person (Temirkhan loved to recognize special *moments*; with the utmost gravity and seriousness, he would often give speeches on independence days or school-wide celebrations when he felt that something ought to be remembered) he almost never lost control of his emotions. While other students gathered in the dormitory lounges to watch movies or played video games, he was usually hard at work.
 
 Temirkhan was a reader. He spoke with great pride about Chingiz Aitmatov, Kyrgyzstan's most famous writer. When we talked about Dostoyevsky and great Russian-language literature, he insisted that I must read Pushkin, for his amazing poetry and for bringing Russian writing into modernity. True to the personality of many readers, Temirkhan was always after clever tidbits of information and arcane pieces of knowledge-- the hacks that improve daily living, even if only by a little.
