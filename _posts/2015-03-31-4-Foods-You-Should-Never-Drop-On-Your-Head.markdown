@@ -4,7 +4,7 @@ title: "4 Foods You Should Never Drop On Your Head"
 date: 2015-03-31
 comments: true
 categories: [posts]
-tags: humor 
+tags: humor list
 ---
 
 >This is a continuation of a food magazine series for foodies. It's called Spoon University.
