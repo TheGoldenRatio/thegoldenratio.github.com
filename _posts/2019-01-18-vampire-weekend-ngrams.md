@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Guessed Vampire Weekend's New Album Title Before The Announcement. Still Angry.
+title: I Guessed Vampire Weekend's New Album Title Before Their Announcement. Still Angry Though.
 date: 2019-01-30
 comments: true
 categories: [posts]
