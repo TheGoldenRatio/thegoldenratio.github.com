@@ -10,24 +10,27 @@ permalink: /about
 <br>
 <img class="left-no" src="/img/profile_bw.png" alt="this is a picture of me" width= '175 px'>
 
-### A bit of myself:
+### Some of my experience:
 
-- I'm currently a **product manager** at an [**AI startup**](https://demo.unibit.ai/). We're using **natural language generation** and large datasets to automate news publishing
-- I was a consultant at a leading [**strategy / innovation consulting firm**](https://www.newmarketsadvisors.com/) in Boston. Industries I worked in: financial services, fintech, pharma, healthcare, software.  Clients ranged from the Fortune 100 to startups
-- I was a part of the **start-up team** for the [**University of Central Asia**](https://www.ucentralasia.org/) in Kyrgyzstan . I worked in Student Life and helped to establish campus life and extracurriculars at the first fully residential, liberal arts university in Central Asia
-- I graduated cum laude from **Yale University** in 2016. I double majored in **political science** and **mechanical engineering**
+- Currently working with the [**Facebook Developer Support Engineering**](https://www.facebook.com/careers/life/a-look-inside-developer-support-engineering-at-facebook) team to help unblock developers that use the Facebook platform for their apps, games, and business
+- TA for a Data Analyatics course at UC Berkeley Extension
+- Product manager at [**Unibit**](https://unibit.ai/), a financial terminal startup (YC '20)
+- Associate consultant at a [**strategy / innovation consulting firm**](https://www.newmarketsadvisors.com/) in Boston. Industries I worked in: financial services, healthcare, software.  Clients ranged from the Fortune 100 to startups
+- Helped with the launch of the [**University of Central Asia**](https://www.ucentralasia.org/) in Kyrgyzstan. I helped to establish the culture of on-campus life at the first fully residential, liberal arts university in Central Asia
+- Graduated cum laude from Yale University in 2016. I double majored in political science and mechanical engineering
 
 
 ### My interests:
 
-- data visualization and design
-- statistics, machine learning, natural language processing
-- tech, entrepreneurship, and education for international development
+- The intersection of tech, policy, and data
+- International development
+- Education
+
 
 ### For fun, I like to: 
 
 - solve the New York Times Crossword
-- watch and critique film
+- watch films
 - travel, write, make videos
 - read
 
