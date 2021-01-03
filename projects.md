@@ -1,23 +1,26 @@
 ---
 layout: page
-title:  Projects
+title:  Projects + Work
 permalink: /projects
 ---
 
 <hr/>
 
-### Facebook Developer Support
+### Facebook Developer Support (2020 -)
 Supporting [Facebook platform products](https://developers.facebook.com/docs/) and [Developer Community Forum](https://developers.facebook.com/community/)
 
-### Unbit
-Project manager for [Unibit](https://unibit.ai/solution), a financial research platform powered by NLP. Check out the [API](https://unibit.ai/api/docs/V2.0/introduction). Company was part of Y Combinator W20.
+### Data analyst at [Motorq](https://motorq.com/) (2019)
+Worked on several features of Motorq's connected car data platform as a data analyst in Palo Alto.
 
-### Learn about Jobs To Be Done
+### [Unbit](https://unibit.ai/solution) (2018-2019)
+Project manager for Unibit.ai, a financial research platform powered by NLP. Check out the [API](https://unibit.ai/api/docs/V2.0/introduction). Company was part of Y Combinator W20.
+
+### Learn about Jobs To Be Done (2018)
 Here's a little [quiz app](https://jobstobedone.herokuapp.com) that I built, where you can learn more about the Jobs to be Done framework, popularized by HBS professor Clayton Christensen, which helps organizations successfully innovate by identifying fundamental customer needs.
 
 This was one of the business frameworks that I used as a consultant at [New Markets Advisors](newmarketsadvisors.com) in Boston, a consulting firm specializing in innovation, strategy, and market research. 
 
-### [University of Central Asia](http://ucentralasia.org) (July 2016 -)
+### [University of Central Asia](http://ucentralasia.org) (2016 - 2017)
 I was part of the team that opened UCA’s Naryn campus in its inaugural year! I was responsible for planning co-curricular activities, student life events (athletics and clubs), academic advising, residential life, and mentorship.
 
 I also taught computer programming with weekly lessons on Python and web development in Flask, Bootstrap, Jekyll. I created an institutional research report with D3 visualizations based on admissions data, classroom data, running and analyzing surveys regarding student campus life and academics in order to inform decisions on admissions, facilities, and student services.
@@ -28,8 +31,8 @@ Here's a cool
 <br> <img src="/img/ucagroup.jpg" alt="UCA">
 <br>
 
-### D3 Visualizations
-Recently learned some D3 and made some things: an updating [dashboard](d3/dash.html), social network [graph](d3/net.html), population density [maps](posts/Utah-Choropleth.html), Sankey [diagram](d3/sankey.html) , [donut](d3/donut.html) chart.
+### D3 Visualizations for UCA
+Learned some D3 and made some things: an updating [dashboard](d3/dash.html), social network [graph](d3/net.html), population density [maps](posts/Utah-Choropleth.html), Sankey [diagram](d3/sankey.html) , [donut](d3/donut.html) chart.
 <br>
 
 ### Software developer (April - July 2016)
