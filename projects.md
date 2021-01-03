@@ -6,6 +6,12 @@ permalink: /projects
 
 <hr/>
 
+### Facebook Developer Support
+Supporting [Facebook platform products](https://developers.facebook.com/docs/) and [Developer Community Forum](https://developers.facebook.com/community/)
+
+### Unbit
+Project manager for [Unibit](https://unibit.ai/solution), a financial research platform powered by NLP. Check out the [API](https://unibit.ai/api/docs/V2.0/introduction). Company was part of Y Combinator W20.
+
 ### Learn about Jobs To Be Done
 Here's a little [quiz app](https://jobstobedone.herokuapp.com) that I built, where you can learn more about the Jobs to be Done framework, popularized by HBS professor Clayton Christensen, which helps organizations successfully innovate by identifying fundamental customer needs.
 
