@@ -12,8 +12,8 @@ It was eerie how quiet Vientiane felt after I had experienced the bustle of Bang
 
 Before coming, people told me that Laos felt like Thailand 30 years ago. I walked on the sidewalk toward the center of town, the Mekong off to the distance on the right. It was further off in the distance than I thought it would be since the Airbnb had advertised itself as "riverside". Perhaps the water was just low but I'm beginning to suspect that description was a generous one.  
 
-There were hotels, ATMs, restaurants, bars on my left. None of the buildings were particularly fancy, the more spartan one sporting bare concrete and missing windowpanes. Vientiane did have a time capsule-like quality, that was only amplified by the orange sun.
+There were hotels, ATMs, restaurants, bars on my left. None of the buildings were particularly fancy, the more spartan ones sporting bare concrete and missing windowpanes. Vientiane really did have a time capsule-like quality, that was only amplified by the orange sun.
 
-As I got closer to the night market and the air cooled, I started to see more and more people walking along the footpath. There were more cars and scooters on the street. The river, still distant, widened and came more into view. The increasing signs of life made my eyes teary as I fully comprehended just how lucky I was to be here. I had to hold in a small sob as I continued walking toward the market and felt an overwhelming sense of gratitude that I would being here for the next 2.5 months.
+As I got closer to the night market and the air cooled, I started to see more and more people walking along the footpath. There were more cars and scooters on the street. The river, still distant, widened and came more into view. The increasing signs of life made my eyes teary as I fully comprehended just how lucky I was to be here for the next two-and-a-half months. I had to hold in a small sob as I continued walking toward the market and felt an overwhelming wave emotion to finally be in Laos.
 
 Here's the [Google Photos album](https://photos.app.goo.gl/JZUmDcztKp2apXj37) of some interesting things I've seen so far. I will be updating this album frequently!
