@@ -4,7 +4,7 @@
 ####################################
 #
 title: Jonathan Chang | Art, Culture, Data
-email: jonathan@unibit.ai
+email: jchangme@gmail.com
 description: "Jonathan Chang's blog on travel, media, technology. I'm a tech product manager. Former Yale undergrad, Univ. of Central Asia staffer, strategy consultant."
 keywords: ["Jonathan Chang", "jchang", "Product Manager", "blog", "videos", "d3", "Python", "Data visualizations", "coding", "Yale", "consulting", "UCA", "vlog", "Youtube"]
 
@@ -18,7 +18,7 @@ markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
 permalink: /:title
-
+url: "https://jchang.me"
 kramdown:
   auto_ids: true
   footnote_nr: 1
